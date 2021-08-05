@@ -1,0 +1,13 @@
+h5
+{
+    color: MidnightBlue;
+	text-shadow: 3px 3px 5px black;
+} 
+ol
+{
+	list-style-type: upper-latin;
+}
+ul
+{
+	list-style-type: circle;
+}
