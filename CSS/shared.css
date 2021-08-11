@@ -64,12 +64,12 @@ h4 {
 
 p {
     font-weight: 300;
-    line-height: 30px;
     padding-bottom: 15px;
+    line-height: 30px;
 }
 
-.photo-overlay h2 {
-    line-height: 60px;
+.photo-overlay h3 {
+    line-height: 32px;
     color: #fff;
     text-align: center;
 }
