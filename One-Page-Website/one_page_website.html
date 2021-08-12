@@ -3,13 +3,14 @@
 	<head>
 		<title>Passionate Hiking</title>
 		<meta charset="utf-8">
+		<link rel="stylesheet" href="./CSS/one-page-website.css">
 	</head>
 	</body>
 		
 		<!-- NAV -->
-		<div>
-			<div>
-				<ul>
+		<div class="top-menu"> 
+			<div class="menu-container">
+				<ul class="menu">
 					<a href="#home" id="link"><li>HOME</li></a>
 					<a href="#gallery" id="link"><li>GALLERY</li></a>
 					<a href="#videos" id="link"><li>VIDEOS</li></a>
@@ -21,9 +22,9 @@
 		
 		<!-- HOME -->
 		<div id="home">
-			<div>
-				<div>
-					<h2><span>Passionate Hiking</span></h2>
+			<div class="container">
+				<div class="home-heading">
+					<h2>Passionate Hiking</h2>
 					<h4>Hiking tips, advice, recommendations, and product reviews</h4>
 				</div>
 			</div>
@@ -31,141 +32,117 @@
 		<!-- END HOME -->
 		
 		<!-- GALLERY -->
-		<section>
-			<div id="gallery">
+		<section id="gallery">
+			<div class="photo">
 				<h2>Gallery</h2>
-				<div>
+				<div class="flex-container">
 				
 					<!--PHOTO CONTAINER-1 -->
-					<div>
-						<div>
-							<img src="Images/img1.png" alt="Beautiful scenery">
-						</div>
+					<div class="image">
+						<img src="Images/img1.png" alt="Beautiful scenery">
 					</div>
 					<!-- END PHOTO CONTAINER-1 -->
 					
 					<!--PHOTO CONTAINER-2 -->
-					<div>
-						<div>
-							<img src="Images/img2.png" alt="Beautiful scenery">
-						</div>
+					<div class="image">
+						<img src="Images/img2.png" alt="Beautiful scenery">
 					</div>
-					<!-- END PHOTO CONTAINER-2 -->
-					
+				    <!-- END PHOTO CONTAINER-2 -->
+
+						
 					<!--PHOTO CONTAINER-3 -->
-					<div>
-						<div>
-							<img src="Images/img3.png" alt="Beautiful scenery">
-						</div>
+					<div class="image">
+						<img src="Images/img3.png" alt="Beautiful scenery">
 					</div>
-					<!-- END PHOTO CONTAINER-3 -->
-					
+				    <!-- END PHOTO CONTAINER-3 -->
+
+						
 					<!--PHOTO CONTAINER-4 -->
-					<div>
-						<div>
-							<img src="Images/img4.png" alt="Beautiful scenery">
-						</div>
+					<div class="image">
+						<img src="Images/img4.png" alt="Beautiful scenery">
 					</div>
-					<!-- END PHOTO CONTAINER-4 -->
-					
+				    <!-- END PHOTO CONTAINER-4 -->
+
 					<!--PHOTO CONTAINER-5 -->
-					<div>
-						<div>
-							<img src="Images/img5.png" alt="Beautiful scenery">
-						</div>
+					<div class="image">
+						<img src="Images/img5.png" alt="Beautiful scenery">
 					</div>
-					<!-- END PHOTO CONTAINER-5 -->
-					
+				    <!-- END PHOTO CONTAINER-5 -->
+
 					<!--PHOTO CONTAINER-6 -->
-					<div>
-						<div>
-							<img src="Images/img6.png" alt="Beautiful scenery">
-						</div>
+					<div class="image">
+						<img src="Images/img6.png" alt="Beautiful scenery">
 					</div>
-					<!-- END PHOTO CONTAINER-6 -->
-					
+				    <!-- END PHOTO CONTAINER-6 -->
+
 					<!--PHOTO CONTAINER-7 -->
-					<div>
-						<div>
-							<img src="Images/img7.png" alt="Beautiful scenery">
-						</div>
+					<div class="image">
+						<img src="Images/img7.png" alt="Beautiful scenery">
 					</div>
-					<!-- END PHOTO CONTAINER-7 -->
-					
+				    <!-- END PHOTO CONTAINER-7 -->
+
 					<!--PHOTO CONTAINER-8 -->
-					<div>
-						<div>
-							<img src="Images/img8.png" alt="Beautiful scenery">
-						</div>
+					<div class="image">
+						<img src="Images/img8.png" alt="Beautiful scenery">
 					</div>
-					<!-- END PHOTO CONTAINER-8 -->
-					
+				    <!-- END PHOTO CONTAINER-8 -->
+
 					<!--PHOTO CONTAINER-9 -->
-					<div>
-						<div>
-							<img src="Images/img9.png" alt="Beautiful scenery">
-						</div>
+					<div class="image">
+						<img src="Images/img9.png" alt="Beautiful scenery">
 					</div>
-					<!-- END PHOTO CONTAINER-9 -->
-					
+				    <!-- END PHOTO CONTAINER-9 -->
+
 					<!--PHOTO CONTAINER-10 -->
-					<div>
-						<div>
-							<img src="Images/img10.png" alt="Beautiful scenery">
-						</div>
+					<div class="image">
+						<img src="Images/img10.png" alt="Beautiful scenery">
 					</div>
-					<!-- END PHOTO CONTAINER-10 -->
-					
-					
+				    <!-- END PHOTO CONTAINER-10 -->
+
 				</div>
 			</div>
 		</section>
 		<!-- END GALLERY -->
 		
 		<!-- Videos -->
-		<section>
-			<div id="videos">
-				<h2>Videos</h2>
-				<div>
-					<p>Here are a few links to educational videos on hiking.</p>
-					<div>
-						<p><a href="https://www.youtube.com/watch?v=68aTkUHbczI">Some of the benefits of hiking.</a></p>
-						<p><a href="https://www.youtube.com/watch?v=e8gHSHIaqG0">Some of the best hiking trails in the U.S.</a></p>
-						<p><a href="https://www.youtube.com/watch?v=B1jM3kFwOio">Some of the best hiking trails in the world.</a></p>
-					</div>
+		<section id="videos">
+			
+			<h2>Videos</h2>
+			<h4>Here are a few educational videos on hiking.</h4>
+			<div class="flex-container">
+				<div class="embed">
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/68aTkUHbczI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				</div>
+
+				<div class="embed">
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/e8gHSHIaqG0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				</div>
+
+				<div class="embed">
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/B1jM3kFwOio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 				</div>
 			</div>
+			
 		</section>
 		<!-- END VIDEO -->
 		
 		<!-- CONTACT -->
-		<section>
-			<div id="contact">
-				<div>
-					<p>Have more questions or want a hiking guide brochure? Please enter your contact information and we will be happy to respond!</p>
-					<div>
-						<div>
-							<form action="" method="post">
-								<input class="rsvp" type="text" value="First Name">
-								<input class="rsvp" type="text" value="Last Name">
-								<input class="rsvp" type="text" value="Email Address">
-								<input class="rsvp" type="text" value="Phone Number">
-								<div class="form-spacer">
-									<label class="terms">Terms and Conditions</label>
-								</div>
-								<div>
-									<input type="submit" value="Submit">
-								</div>
-							</form>
-						</div>
-					</div>
+		<section id="contact">
+			<h3>Have more questions or want a hiking guide brochure? Please enter your contact information and we will be happy to respond!</h3>
+			<form action="" method="post">
+				<input class="rsvp" type="text" placeholder="First Name">
+				<input class="rsvp" type="text" placeholder="Last Name">
+				<input class="rsvp" type="text" placeholder="Email Address">
+				<input class="rsvp" type="text" placeholder="Phone Number">
+				<div class="submit">
+					<input type="submit" value="Submit">
 				</div>
-			</div>
+			</form>
 		</section>
 		<!-- END CONTACT -->
 		
 		<!-- FOOTER -->
-		<div>
+		<div class="footer">
 			www.passionatehiking.com&nbsp;|&nbsp; &copy; 2021
 		</div>
 		<!-- END FOOTER -->
