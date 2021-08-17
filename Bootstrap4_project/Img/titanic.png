@@ -1,0 +1,455 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<script src="/cdn-cgi/apps/head/KksKHz0oW5g-iDkngq7VDEinWPQ.js"></script><link rel="profile" href="https://gmpg.org/xfn/11"/>
+<link rel="alternate" type="application/rss+xml" title="&raquo; Feed" href="https://www.letsfindmovie.com/feed/"/>
+<link rel="alternate" type="application/rss+xml" title="&raquo; Comments Feed" href="https://www.letsfindmovie.com/comments/feed/"/>
+<style>ul#ui-custom-id-1{background:#fff;border:1px solid #999;border-top:none;max-width:307px;max-height:350px;overflow-y:auto;box-shadow:-2px 5px 6px -2px #ccc;}
+ul#ui-custom-id-1 li.ui-menu-item{white-space:normal;border-bottom:1px solid #e1e1e1;padding:0;}
+ul#ui-custom-id-1 li.ui-menu-item a{font-size:12px;border:none;margin:0;padding:5px 10px;}
+ul#ui-custom-id-1 li.ui-menu-item a.ui-state-focus{border:none;background:#888;color:#fff;}
+ul#ui-custom-id-1,
+ul#ui-custom-id-1 .ui-corner-all,
+ul#ui-custom-id-1 .ui-corner-top,
+ul#ui-custom-id-1 .ui-corner-left,
+ul#ui-custom-id-1 .ui-corner-tl{border-top-left-radius:0px;}
+ul#ui-custom-id-1,
+ul#ui-custom-id-1 .ui-corner-all,
+ul#ui-custom-id-1 .ui-corner-top,
+ul#ui-custom-id-1 .ui-corner-right,
+ul#ui-custom-id-1 .ui-corner-tr{border-top-right-radius:0px;}
+ul#ui-custom-id-1,
+ul#ui-custom-id-1 .ui-corner-all,
+ul#ui-custom-id-1 .ui-corner-bottom,
+ul#ui-custom-id-1 .ui-corner-left,
+ul#ui-custom-id-1 .ui-corner-bl{border-bottom-left-radius:0px;}
+ul#ui-custom-id-1,
+ul#ui-custom-id-1 .ui-corner-all,
+ul#ui-custom-id-1 .ui-corner-bottom,
+ul#ui-custom-id-1 .ui-corner-right,
+ul#ui-custom-id-1.ui-corner-br{border-bottom-right-radius:0px;}</style>
+<link rel='stylesheet' id='wp-block-library-css' href='//www.letsfindmovie.com/wp-content/cache/wpfc-minified/1czl3cb2/dn56f.css' media='all'/>
+<style>.wp-block-audio figcaption{color:#555d66;font-size:13px;text-align:center}
+.wp-block-code{font-family:Menlo,Consolas,monaco,monospace;font-size:14px;color:#23282d;padding:.8em 1em;border:1px solid #e2e4e7;border-radius:4px}
+.blocks-gallery-caption,.wp-block-embed figcaption,.wp-block-image figcaption{color:#555d66;font-size:13px;text-align:center}
+.wp-block-preformatted pre{font-family:Menlo,Consolas,monaco,monospace;color:#23282d;font-size:16px}
+@media (min-width:600px){.wp-block-preformatted pre{font-size:14px}}.wp-block-pullquote{border-top:4px solid #555d66;border-bottom:4px solid #555d66;margin-bottom:28px;color:#40464d}
+.wp-block-pullquote__citation,.wp-block-pullquote cite,.wp-block-pullquote footer{color:#40464d;text-transform:uppercase;font-size:13px;font-style:normal}
+.wp-block-quote{border-left:4px solid #000;margin:0 0 28px;padding-left:1em}
+.wp-block-quote__citation,.wp-block-quote cite,.wp-block-quote footer{color:#6c7781;font-size:13px;margin-top:1em;position:relative;font-style:normal}
+.wp-block-quote.has-text-align-right{border-left:none;border-right:4px solid #000;padding-left:0;padding-right:1em}
+.wp-block-quote.has-text-align-center{border:none;padding-left:0}
+.wp-block-quote.is-large,.wp-block-quote.is-style-large{border:none}
+.wp-block-search .wp-block-search__label{font-weight:700}
+.wp-block-group.has-background{padding:20px 30px;margin-top:0;margin-bottom:0}
+.wp-block-separator{border:none;border-bottom:2px solid #8f98a1;margin-left:auto;margin-right:auto}
+.wp-block-separator:not(.is-style-wide):not(.is-style-dots){max-width:100px}
+.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}
+.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}
+.wp-block-table{border-collapse:collapse}
+.wp-block-table td,.wp-block-table th{padding:.5em;border:1px solid;word-break:normal}
+.wp-block-video figcaption{color:#555d66;font-size:13px;text-align:center}</style>
+<style>.search-section{width:60%;position:relative;}
+.search-section input.auto-suggest-front{width:92%;height:35px;padding:5px 10px;font-size:18px;}
+.search-section input.auto-suggest-front,
+.asr-container{border:1px solid #efefef;overflow-y:auto;margin-top:5px;box-sizing:border-box;}
+.asr-container{border:1px solid #000;width:60%;}
+.result-section{overflow-y:auto;max-height:400px;}
+.result-section .post-details{width:100%;float:left;padding:10px;border-bottom:1px solid #ccc;background:#fff;box-sizing:border-box;}
+.result-section .post-details.img-active .col-left{float:left;width:25%;}
+.result-section .col-left .post-img{width:150px;float:left;display:block;max-width:100%;}
+.result-section .post-details.img-active .col-right{float:left;width:75%;padding-left:10px;box-sizing:border-box;}
+.result-section .post-details .col-left{width:0;}
+.result-section .post-details .col-right{width:100%;padding-left:0;}
+.result-section .col-right .post-title a{font-size:15px;color:#33bbff;box-shadow:none;border-bottom:0;text-decoration:none;}
+.result-section .col-right .post-title a:hover{box-shadow:0 1px 0 0 currentColor;}
+.result-section .col-right .post-date{font-size:14px;line-height:normal;padding:7px 0px 3px;}
+.result-section .col-right .post-desc{width:100%;font-size:12px;border-bottom:1px solid #ccc;}
+.asr-container.no-result{background:#a53c3c;height:auto;padding:2px;}
+.asr-container.no-result .result-section{height:auto;text-align:center;color:#a53c3c;background:#ffc6c6;}
+p.more-res{margin-bottom:0;text-align:center;text-transform:capitalize;font-size:15px;padding:5px 10px 0;background:#000;}
+p.more-res a{color:#fff;box-shadow:none;}
+.search-section .auto-suggest-submit{background:url(//www.letsfindmovie.com/wp-content/plugins/auto-search-suggestion/images/search.png) #000 no-repeat scroll 50% 50%;border-radius:0 2px 2px 0;bottom:0;overflow:hidden;padding:0;position:absolute;right:0;top:5px;width:8%;height:35px;padding:4px;}
+.search-section .auto-suggest-submit:hover,
+.search-section .auto-suggest-submit:focus{background:url(//www.letsfindmovie.com/wp-content/plugins/auto-search-suggestion/images/search.png) #000 no-repeat scroll 50% 50%;}
+.search-section .auto-suggest-submit::before{font-size:24px;left:0;line-height:26px;position:relative;width:auto;}
+textarea:focus, input:focus{outline:none;}
+@media only screen and (max-width: 1024px){
+.search-section,
+.asr-container{width:100%;}
+}
+@media only screen and (max-width: 768px){
+.search-section,
+.asr-container{width:100%;}
+}
+@media only screen and (max-width: 639px){
+.result-section .post-details.img-active .col-right{width:80%;}
+.result-section .post-details.img-active .col-left{width:20%;}
+}</style>
+<link rel='stylesheet' id='wpmoly-css' href='//www.letsfindmovie.com/wp-content/cache/wpfc-minified/fdygp09x/dn56f.css' media='all'/>
+<link rel='stylesheet' id='wpmoly-flags-css' href='//www.letsfindmovie.com/wp-content/cache/wpfc-minified/7x9g8jqd/dn56f.css' media='all'/>
+<style>@font-face{font-family:'wpmovielibrary';src:url(//www.letsfindmovie.com/wp-content/plugins/wpmovielibrary/assets/fonts/wpmovielibrary/fonts/wpmovielibrary.eot?-rnqd04);src:url(//www.letsfindmovie.com/wp-content/plugins/wpmovielibrary/assets/fonts/wpmovielibrary/fonts/wpmovielibrary.eot?#iefix-rnqd04) format('embedded-opentype'), url(//www.letsfindmovie.com/wp-content/plugins/wpmovielibrary/assets/fonts/wpmovielibrary/fonts/wpmovielibrary.woff?-rnqd04) format('woff'), url(//www.letsfindmovie.com/wp-content/plugins/wpmovielibrary/assets/fonts/wpmovielibrary/fonts/wpmovielibrary.ttf?-rnqd04) format('truetype'), url(//www.letsfindmovie.com/wp-content/plugins/wpmovielibrary/assets/fonts/wpmovielibrary/fonts/wpmovielibrary.svg?-rnqd04#wpmovielibrary) format('svg');font-weight:normal;font-style:normal;}
+[class^="icon-"], [class*=" icon-"]{font-family:'wpmovielibrary';speak:none;font-style:normal;font-weight:normal;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;}
+.icon-oscars:before{content:"\e674";}
+.icon-oscars-empty:before{content:"\e675";}
+.icon-oscars-half:before{content:"\e676";}
+.icon-sort-date-asc-alt:before{content:"\e672";}
+.icon-sort-date-desc-alt:before{content:"\e673";}
+.icon-sort-date-asc:before{content:"\e670";}
+.icon-sort-date-desc:before{content:"\e671";}
+.icon-images-alt-2:before{content:"\e66e";}
+.icon-hat:before{content:"\e66b";}
+.icon-actor-alt:before{content:"\e66c";}
+.icon-hat-alt:before{content:"\e66d";}
+.icon-vfx:before{content:"\e66a";}
+.icon-actor:before{content:"\e60c";}
+.icon-divx:before{content:"\e607";}
+.icon-dvd:before{content:"\e608";}
+.icon-poster:before{content:"\e60a";}
+.icon-api:before{content:"\e610";}
+.icon-3d:before{content:"\e61b";}
+.icon-hd:before{content:"\e625";}
+.icon-sd:before{content:"\e64d";}
+.icon-blu-ray:before{content:"\e64f";}
+.icon-cinema:before{content:"\e660";}
+.icon-mkv:before{content:"\e661";}
+.icon-unavailable:before{content:"\e662";}
+.icon-yes:before{content:"\e663";}
+.icon-subtitles:before{content:"\e657";}
+.icon-video-format:before{content:"\e658";}
+.icon-cog:before{content:"\e64e";}
+.icon-date:before{content:"\e642";}
+.icon-collection:before{content:"\e602";}
+.icon-collapse:before{content:"\e600";}
+.icon-meta:before{content:"\e601";}
+.icon-director:before{content:"\e603";}
+.icon-import-alt:before{content:"\e604";}
+.icon-edit:before{content:"\e605";}
+.icon-video:before{content:"\e606";}
+.icon-hd-o:before{content:"\e609";}
+.icon-sd-o:before{content:"\e60b";}
+.icon-images-alt:before{content:"\e60d";}
+.icon-queue-alt:before{content:"\e60e";}
+.icon-blu-ray-alt:before{content:"\e60f";}
+.icon-divx-alt:before{content:"\e611";}
+.icon-dvd-alt:before{content:"\e612";}
+.icon-mkv-alt:before{content:"\e613";}
+.icon-streaming:before{content:"\e614";}
+.icon-vhs:before{content:"\e615";}
+.icon-vod:before{content:"\e616";}
+.icon-no:before{content:"\e618";}
+.icon-no-alt:before{content:"\e619";}
+.icon-plus:before{content:"\e61a";}
+.icon-grid:before{content:"\e61d";}
+.icon-search:before{content:"\e61e";}
+.icon-shared:before{content:"\e61f";}
+.icon-star-empty:before{content:"\e620";}
+.icon-star-filled:before{content:"\e621";}
+.icon-star-half:before{content:"\e622";}
+.icon-status:before{content:"\e623";}
+.icon-scheduled:before{content:"\e624";}
+.icon-tag:before{content:"\e626";}
+.icon-update:before{content:"\e627";}
+.icon-export-alt:before{content:"\e628";}
+.icon-add-page:before{content:"\e629";}
+.icon-preview:before{content:"\e62a";}
+.icon-edit-page:before{content:"\e62b";}
+.icon-wpmoly:before{content:"\e62c";}
+.icon-advanced:before{content:"\e678";}
+.icon-settings:before{content:"\e677";}
+.icon-dollar2:before{content:"\e66f";}
+.icon-yes-alt:before{content:"\e67d";}
+.icon-no-alt-2:before{content:"\e67e";}
+.icon-queue-alt-2:before{content:"\e67f";}
+.icon-queued:before{content:"\e680";}
+.icon-queue-alt-3:before{content:"\e681";}
+.icon-deactivate:before{content:"\e682";}
+.icon-th-large:before{content:"\f009";}
+.icon-th:before{content:"\f00a";}
+.icon-th-list:before{content:"\f00b";}
+.icon-flag:before{content:"\f024";}
+.icon-audio-alt:before{content:"\f025";}
+.icon-audio:before{content:"\f028";}
+.icon-tags:before{content:"\f02c";}
+.icon-align-justify:before{content:"\f039";}
+.icon-list:before{content:"\f03a";}
+.icon-image:before{content:"\f03e";}
+.icon-cogs:before{content:"\f085";}
+.icon-details:before{content:"\f0b0";}
+.icon-format:before{content:"\f0d0";}
+.icon-circle-o:before{content:"\f10c";}
+.icon-ellipsis-h:before{content:"\f141";}
+.icon-ellipsis-v:before{content:"\f142";}
+.icon-dollar:before{content:"\f155";}
+.icon-sort-alpha-asc:before{content:"\f15d";}
+.icon-sort-alpha-desc:before{content:"\f15e";}
+.icon-sort-amount-asc:before{content:"\f160";}
+.icon-sort-amount-desc:before{content:"\f161";}
+.icon-sort-numeric-asc:before{content:"\f162";}
+.icon-sort-numeric-desc:before{content:"\f163";}
+.icon-wordpress:before{content:"\f19a";}
+.icon-language:before{content:"\f1ab";}
+.icon-cubes:before{content:"\f1b3";}
+.icon-cache:before{content:"\e62d";}
+.icon-author:before{content:"\e62e";}
+.icon-heart:before{content:"\e62f";}
+.icon-heart2:before{content:"\e65a";}
+.icon-overview:before{content:"\e630";}
+.icon-home:before{content:"\e631";}
+.icon-link:before{content:"\e632";}
+.icon-bug:before{content:"\e633";}
+.icon-trophy:before{content:"\e65e";}
+.icon-camera:before{content:"\e65d";}
+.icon-cache-alt:before{content:"\e634";}
+.icon-composer:before{content:"\e635";}
+.icon-certification:before{content:"\e65f";}
+.icon-doc:before{content:"\e636";}
+.icon-book:before{content:"\e667";}
+.icon-help:before{content:"\e637";}
+.icon-runtime:before{content:"\e638";}
+.icon-producer:before{content:"\e639";}
+.icon-lang:before{content:"\e63a";}
+.icon-style:before{content:"\e651";}
+.icon-country:before{content:"\e63b";}
+.icon-browser:before{content:"\e665";}
+.icon-code:before{content:"\e643";}
+.icon-cinema-alt:before{content:"\e63c";}
+.icon-graph:before{content:"\e666";}
+.icon-lock:before{content:"\e668";}
+.icon-lock-open:before{content:"\e669";}
+.icon-erase:before{content:"\e63d";}
+.icon-info:before{content:"\e652";}
+.icon-info-o:before{content:"\e653";}
+.icon-question:before{content:"\e654";}
+.icon-question-alt:before{content:"\e655";}
+.icon-warning:before{content:"\e656";}
+.icon-legacy:before{content:"\e650";}
+.icon-images:before{content:"\e63e";}
+.icon-movie:before{content:"\e617";}
+.icon-folder:before{content:"\e659";}
+.icon-archive:before{content:"\e664";}
+.icon-trash:before{content:"\e63f";}
+.icon-export:before{content:"\e640";}
+.icon-import:before{content:"\e641";}
+.icon-resize-enlarge:before{content:"\e65b";}
+.icon-resize-shrink:before{content:"\e65c";}
+.icon-arrow-left:before{content:"\e644";}
+.icon-arrow-down:before{content:"\e645";}
+.icon-arrow-up:before{content:"\e646";}
+.icon-arrow-right:before{content:"\e647";}
+.icon-sort:before{content:"\e683";}
+.icon-github:before{content:"\e648";}
+.icon-twitter:before{content:"\e649";}
+.icon-facebook:before{content:"\e64a";}
+.icon-googleplus:before{content:"\e64b";}
+.icon-linkedin:before{content:"\e64c";}</style>
+<style>.star-rating{width:0;position:relative;display:inline-block;background-position:0 0;background-repeat:repeat-x;}
+.star-rating[data-title]:hover:after{content:attr(data-title);padding:4px 8px;color:#333;position:absolute;left:0;top:100%;z-index:20;white-space:nowrap;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;-moz-box-shadow:0px 0px 4px #222;-webkit-box-shadow:0px 0px 4px #222;box-shadow:0px 0px 4px #222;background-image:-moz-linear-gradient(top, #eeeeee, #cccccc);background-image:-webkit-gradient(linear,left top,left bottom,color-stop(0, #eeeeee),color-stop(1, #cccccc));background-image:-webkit-linear-gradient(top, #eeeeee, #cccccc);background-image:-moz-linear-gradient(top, #eeeeee, #cccccc);background-image:-ms-linear-gradient(top, #eeeeee, #cccccc);background-image:-o-linear-gradient(top, #eeeeee, #cccccc);}
+.star-rating .star-value{height:100%;position:absolute;}
+.star-rating .star-value{position:absolute;height:100%;width:100%;background-repeat:repeat-x;}
+.star-rating::before{content:none !important;}
+.star-value::before{content:none !important;}
+.yasr-auto-insert-overall{margin-top:10px;}
+.yasr-auto-insert-visitor{margin-top:10px;}
+#yasr-custom-text-before-overall{display:block;padding-right:15px;vertical-align:top;}
+#yasr-custom-text-before-visitor-rating{display:block;padding-right:15px;vertical-align:top;}
+.yasr-container-custom-text-and-visitor-rating{}
+#yasr-custom-text-before-visitor-rating{display:block;vertical-align:top;padding-right:15px;}
+#yasr_visitor_votes{font-size:small;display:inline-block;}
+.yasr-total-average-text{display:inline-block;}
+.yasr-dashicons-visitor-stats{vertical-align:bottom !important;text-decoration:none;cursor:pointer;height:25px;}
+.yasr-total-average-text-medium{display:block;}
+.yasr-small-block-bold{display:block;font-weight:bold;font-size:12px;}
+.yasr-highest-rated-text{display:block;}
+.yasr-loader-multiset-visitor{display:none;}
+.yasr-multiset-average{text-align:center;}
+.yasr-multiset-average-text{vertical-align:super;}
+.yasr-widget-recent-ratings-table{border:none;}
+.yasr-widget-recent-ratings-td{border:none;}
+.yasr-widget-recent-ratings-text{font-weight:bold;}
+#yasr-medium-rating-tooltip{font-size:14px;}
+.yasr-progress-bars-container{width:100% !important;}
+.yasr-progress-bar-row-container{padding-top:2px !important;padding-left:5px !important;padding-right:5px !important;display:block !important;}
+.yasr-progress-bar-name{display:inline-block !important;float:left;width:20% !important;font-size:14px !important;line-height:1.5 !important;text-align:center !important;}
+.yasr-single-progress-bar-container{width:70% !important;;float:left;}
+.yasr-progress-bar{display:inline-block !important;}
+.yasr-progress-bar-votes-count{display:inline-block !important;width:10%;float:right;text-align:right;font-size:14px !important;}
+.yasr-visitors-stats-tooltip{min-width:245px;text-align:center;background-color:white;color:#0a0a0a;}
+.tippy-tooltip.yasr-theme{background-color:white;}
+.tippy-tooltip.yasr-theme{border:1px solid #aaaaaa;}
+.tippy-roundarrow{fill:#aaa !important;}
+.yasr-w3-container:after,.yasr-w3-container:before{content:"";display:table;clear:both}
+.yasr-w3-border-0{border:0!important}
+.yasr-w3-border{border:1px solid #ccc!important;background:linear-gradient(to bottom,#eee,#f6f6f6);}
+.yasr-w3-border-top{border-top:1px solid #ccc!important}
+.yasr-w3-border-bottom{border-bottom:1px solid #ccc!important}
+.yasr-w3-border-left{border-left:1px solid #ccc!important}
+.yasr-w3-border-right{border-right:1px solid #ccc!important}
+.yasr-w3-amber,.yasr-w3-hover-amber:hover{color:#000!important;background:linear-gradient(to bottom,#ffda44,#f1cb32);background-color:#ffce00;}</style>
+<style id='yasrcss-inline-css'>.star-rating{background-image:url("https://www.letsfindmovie.com/wp-content/plugins/yet-another-stars-rating/img/star_oxy_0.svg");}
+.star-rating .star-value{background:url("https://www.letsfindmovie.com/wp-content/plugins/yet-another-stars-rating/img/star_oxy_1.svg");}</style>
+<link rel='stylesheet' id='dashicons-css' href='//www.letsfindmovie.com/wp-content/cache/wpfc-minified/klnju7z4/dn56f.css' media='all'/>
+<style>.yasr_table_multi_set_shortcode{border-collapse:separate;border-spacing:1px;border-width:1px 0px 0px 1px;border-color:#ddd;margin-top:10px;margin-bottom:24px;width:100%;}
+.yasr_table_multi_set_shortcode td{padding:8px;}
+.yasr_table_multi_set_shortcode tr:nth-child(odd){background:#FFFFec;}
+.yasr_table_multi_set_shortcode tr:nth-child(even){background:#FFFFFF;}
+.yasr-multi-set-name-field{color:#555;}
+.yasr-table-chart{border-spacing:1px;margin-top:10px;margin-bottom:24px;width:100%;}
+.yasr-table-chart td{padding:8px;width:50%;vertical-align:middle;}
+.yasr-table-chart tr:nth-child(odd){background:#FFFFec;}
+.yasr-table-chart tr:nth-child(even){background:#FFFFFF;}
+.yasr-pro-overall-rating-chart-text{display:block;}</style>
+<link rel='stylesheet' id='parent-style-css' href='//www.letsfindmovie.com/wp-content/cache/wpfc-minified/8x6nc2l4/dn56f.css' media='all'/>
+<link rel='stylesheet' id='twentynineteen-style-css' href='//www.letsfindmovie.com/wp-content/cache/wpfc-minified/f3d5fw12/dn56f.css' media='all'/>
+<link rel='stylesheet' id='twentynineteen-print-style-css' href='//www.letsfindmovie.com/wp-content/cache/wpfc-minified/m0op1ish/dn56f.css' media='print'/>
+<link rel='https://api.w.org/' href='https://www.letsfindmovie.com/wp-json/'/>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.letsfindmovie.com/xmlrpc.php?rsd"/>
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.letsfindmovie.com/wp-includes/wlwmanifest.xml"/> 
+<link rel='prev' title='The Irishman' href='https://www.letsfindmovie.com/movies/the-irishman/'/>
+<link rel='next' title='Race 3' href='https://www.letsfindmovie.com/movies/race-3/'/>
+<meta name="generator" content="WordPress 5.3.8"/>
+<link rel="canonical" href="https://www.letsfindmovie.com/movies/titanic/"/>
+<link rel='shortlink' href='https://www.letsfindmovie.com/?p=258'/>
+<link rel="alternate" type="application/json+oembed" href="https://www.letsfindmovie.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.letsfindmovie.com%2Fmovies%2Ftitanic%2F"/>
+<link rel="alternate" type="text/xml+oembed" href="https://www.letsfindmovie.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.letsfindmovie.com%2Fmovies%2Ftitanic%2F&#038;format=xml"/>
+<style>.no-js img.lazyload{display:none;}
+figure.wp-block-image img.lazyloading{min-width:150px;}
+.lazyload, .lazyloading{opacity:0;}
+.lazyloaded{opacity:1;transition:opacity 400ms;transition-delay:0ms;}</style>
+<style>.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><link rel="icon" href="https://www.letsfindmovie.com/wp-content/uploads/2020/01/cropped-fevicon-32x32.png" sizes="32x32"/>
+<link rel="icon" href="https://www.letsfindmovie.com/wp-content/uploads/2020/01/cropped-fevicon-192x192.png" sizes="192x192"/>
+<link rel="apple-touch-icon-precomposed" href="https://www.letsfindmovie.com/wp-content/uploads/2020/01/cropped-fevicon-180x180.png"/>
+<meta name="msapplication-TileImage" content="https://www.letsfindmovie.com/wp-content/uploads/2020/01/cropped-fevicon-270x270.png"/>
+<title>	
+Watch Titanic  Full Movie Online For Free In HD Quality 
+</title> 
+<meta name="description" content="Search and Find Where to Watch 	
+Titanic   Full Bollywood Indian Hindi Movies Streaming Online in HD Quality"  
+<meta http-equiv="content-language" content="en"/>
+<meta name="robot" content="index,follow"/>
+<script data-ad-client="ca-pub-1410109366679714" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script data-wpfc-render="false">var Wpfcll={sources:[],loaded_index:[],i:function(){this.set_source(document.getElementsByTagName("img"));this.set_source(document.getElementsByTagName("iframe"));window.addEventListener('scroll',function(){Wpfcll.load_sources();});window.addEventListener('resize',function(){Wpfcll.load_sources();});},c:function(e,pageload){var winH=document.documentElement.clientHeight || body.clientHeight;var number=pageload ? 0:800;var elemRect=e.getBoundingClientRect();var top=0;var parent=e.parentNode;var parentRect=parent.getBoundingClientRect();if(elemRect.x==0 && elemRect.y==0){for (var i=0;i < 10;i++){if(parent){if(parentRect.x==0 && parentRect.y==0){parent=parent.parentNode;parentRect=parent.getBoundingClientRect();}else{top=parentRect.top;break;}}};}else{top=elemRect.top;}if(winH - top + number > 0){return true;}return false;},r:function(e,pageload){var s=this;var osrc,osrcs;try{if(s.c(e,pageload)){osrc=e.getAttribute("wpfc-data-original-src");osrcs=e.getAttribute("wpfc-data-original-srcset");if(osrc || osrcs){if(osrc){e.setAttribute('src',osrc);}if(osrcs){e.setAttribute('srcset',osrcs);}e.removeAttribute("wpfc-data-original-src");e.removeAttribute("onload");}}}catch(error){console.log(error);console.log("==>",e);}},set_source:function(arr){if(arr.length > 0){var s=this;[].forEach.call(arr,function(e,index){s.sources.push(e);});}},load_sources:function(){var s=this;[].forEach.call(s.sources,function(e,index){s.r(e,false);});}};if(window.attachEvent){window.attachEvent('onload',wpfci);}else{if(window.onload){var wpfcllc=window.onload;var wpfclln=function(evt){wpfcllc(evt);wpfci(evt);};window.onload=wpfclln;}else{window.onload=wpfci;}}function wpfci(){Wpfcll.i();}</script>
+</head>
+<body class="movie-template-default single single-movie postid-258 wp-embed-responsive singular image-filters-enabled">
+<div id="page" class="site"> <a class="skip-link screen-reader-text" href="#content">Skip to content</a> <header id="masthead" class="site-header featured-image"> <nav class="navbar"> <section class="lfm-top-section details-search"> <div class="lfm-sidebar lfm-bar-block lfm-xlarge lfm-animate-left" id="mySidebar"> <nav id="site-navigation" class="main-navigation" aria-label="Top Menu"> <a href="javascript:void(0)" onclick="lfm_close()" class="lfm-close-button"><i class="glyphicon glyphicon-remove" aria-hidden="true"></i></a> <section id="media_image-2" class="widget widget_media_image lfm-bar-item"><a href="https://www.letsfindmovie.com"><img width="300" height="64" alt="" style="max-width: 100%; height: auto;" data-srcset="https://www.letsfindmovie.com/wp-content/uploads/2020/01/logo_design-300x64.jpg 300w, https://www.letsfindmovie.com/wp-content/uploads/2020/01/logo_design.jpg 488w" data-src="https://www.letsfindmovie.com/wp-content/uploads/2020/01/logo_design-300x64.jpg" data-sizes="(max-width: 300px) 100vw, 300px" class="image wp-image-17 attachment-medium size-medium lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/><noscript><img width="300" height="64" alt="" style="max-width: 100%; height: auto;" data-srcset="https://www.letsfindmovie.com/wp-content/uploads/2020/01/logo_design-300x64.jpg 300w, https://www.letsfindmovie.com/wp-content/uploads/2020/01/logo_design.jpg 488w" data-src="https://www.letsfindmovie.com/wp-content/uploads/2020/01/logo_design-300x64.jpg" data-sizes="(max-width: 300px) 100vw, 300px" class="image wp-image-17 attachment-medium size-medium lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/><noscript><img onload="Wpfcll.r(this,true);" src="https://www.letsfindmovie.com/wp-content/plugins/wp-fastest-cache-premium/pro/images/blank.gif" width="300" height="64" wpfc-data-original-src="https://www.letsfindmovie.com/wp-content/uploads/2020/01/logo_design-300x64.jpg" class="image wp-image-17 attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" wpfc-data-original-srcset="https://www.letsfindmovie.com/wp-content/uploads/2020/01/logo_design-300x64.jpg 300w, https://www.letsfindmovie.com/wp-content/uploads/2020/01/logo_design.jpg 488w" sizes="(max-width: 300px) 100vw, 300px"/></noscript></noscript></a></section> <div class="menu-header_menu-container"><ul id="menu-header_menu"><li id="menu-item-35" class="lfm-bar-item lfm-button menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-35"><a href="https://www.letsfindmovie.com/">Home</a></li> <li id="menu-item-143" class="lfm-bar-item lfm-button menu-item menu-item-type-post_type menu-item-object-page menu-item-143"><a href="https://www.letsfindmovie.com/about-us/">About Us</a></li> <li id="menu-item-142" class="lfm-bar-item lfm-button menu-item menu-item-type-post_type menu-item-object-page menu-item-142"><a href="https://www.letsfindmovie.com/privacy-policy/">Privacy Policy</a></li> <li id="menu-item-141" class="lfm-bar-item lfm-button menu-item menu-item-type-post_type menu-item-object-page menu-item-141"><a href="https://www.letsfindmovie.com/contact-us/">Contact Us</a></li> </ul></div><div class="main-menu-more"> <ul class="main-menu"> <li class="menu-item menu-item-has-children"> <button class="submenu-expand main-menu-more-toggle is-empty" tabindex="-1" aria-label="More" aria-haspopup="true" aria-expanded="false"><svg class="svg-icon" width="24" height="24" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="M0 0h24v24H0z"/><path fill="currentColor" fill-rule="nonzero" d="M12 2c5.52 0 10 4.48 10 10s-4.48 10-10 10S2 17.52 2 12 6.48 2 12 2zM6 14a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm6 0a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm6 0a2 2 0 1 0 0-4 2 2 0 0 0 0 4z"/></g></svg> </button> <ul class="sub-menu hidden-links"> <li class="mobile-parent-nav-menu-item"> <button class="menu-item-link-return"><svg class="svg-icon" width="24" height="24" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M15.41 7.41L14 6l-6 6 6 6 1.41-1.41L10.83 12z"></path><path d="M0 0h24v24H0z" fill="none"></path></svg>Back </button> </li> </ul> </li> </ul></div></nav></div><div> <div class="lfm-top"> <div class="lfm-white"> <div class="lfm-button lfm-right" onclick="lfm_open()">☰</div><div class="lfm-left lfm-padding"><section id="media_image-2" class="widget widget_media_image lfm-bar-item"><a href="https://www.letsfindmovie.com"><img width="300" height="64" alt="" style="max-width: 100%; height: auto;" data-srcset="https://www.letsfindmovie.com/wp-content/uploads/2020/01/logo_design-300x64.jpg 300w, https://www.letsfindmovie.com/wp-content/uploads/2020/01/logo_design.jpg 488w" data-src="https://www.letsfindmovie.com/wp-content/uploads/2020/01/logo_design-300x64.jpg" data-sizes="(max-width: 300px) 100vw, 300px" class="image wp-image-17 attachment-medium size-medium lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/><noscript><img width="300" height="64" alt="" style="max-width: 100%; height: auto;" data-srcset="https://www.letsfindmovie.com/wp-content/uploads/2020/01/logo_design-300x64.jpg 300w, https://www.letsfindmovie.com/wp-content/uploads/2020/01/logo_design.jpg 488w" data-src="https://www.letsfindmovie.com/wp-content/uploads/2020/01/logo_design-300x64.jpg" data-sizes="(max-width: 300px) 100vw, 300px" class="image wp-image-17 attachment-medium size-medium lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/><noscript><img onload="Wpfcll.r(this,true);" src="https://www.letsfindmovie.com/wp-content/plugins/wp-fastest-cache-premium/pro/images/blank.gif" width="300" height="64" wpfc-data-original-src="https://www.letsfindmovie.com/wp-content/uploads/2020/01/logo_design-300x64.jpg" class="image wp-image-17 attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" wpfc-data-original-srcset="https://www.letsfindmovie.com/wp-content/uploads/2020/01/logo_design-300x64.jpg 300w, https://www.letsfindmovie.com/wp-content/uploads/2020/01/logo_design.jpg 488w" sizes="(max-width: 300px) 100vw, 300px"/></noscript></noscript></a></section></div></div></div><div class="row lfm-details-page"> <div class="search-section"> <form class="auto-suggest-form" action="https://www.letsfindmovie.com" method="get" role="search"> <input class="auto-suggest-front" id="auto-suggest-front" placeholder="Enter movie name here..." name="s"> <button class="auto-suggest-submit" type="submit"><span class="screen-reader-text">Search</span></button> </form></div><div class="asr-container" style="display: none" id="asr-container"> <div class="result-section" id="result-section"></div><p class="more-res"><a href="">More Results</a></p></div><style>.ui-autocomplete-loading{background:url('https://www.letsfindmovie.com/wp-content/plugins/auto-search-suggestion/ajax-loader.gif') right center no-repeat !important;}</style></div></div></section>
+</nav>
+<div class="site-branding-container"> <div class="site-branding"></div></div></header>
+<div id="content" class="site-content"> <section id="primary" class="content-area"> <main id="main" class="site-main"> <article id="post-258" class="post-258 movie type-movie status-publish has-post-thumbnail hentry collection-james-cameron collection-popular-movies genre-drama genre-romance genre-thriller actor-kate-winslet actor-leonardo-dicaprio actor-billy-zane actor-kathy-bates actor-frances-fisher actor-gloria-stuart actor-bill-paxton actor-bernard-hill actor-david-warner actor-victor-garber actor-jonathan-hyde actor-suzy-amis actor-lewis-abernathy actor-nicholas-cascone actor-danny-nucci actor-jason-barry actor-lew-palter actor-eric-braeden actor-bernard-fox actor-ewan-stewart actor-ioan-gruffudd actor-jonny-phillips actor-edward-fletcher actor-scott-g-anderson actor-martin-east actor-gregory-cooke actor-alexandrea-owens actor-seth-adkins actor-michael-ensign actor-anatoly-m-sagalevitch actor-martin-hub actor-mark-lindsay-chapman actor-richard-graham actor-paul-brightwell actor-ron-donachie actor-charlotte-chatton actor-fannie-brett actor-jenette-goldstein actor-camilla-overbye-roos actor-linda-kerns actor-amy-gaipa actor-martin-jarvis actor-rosalind-ayres actor-rochelle-rose actor-jonathan-evans-jones actor-rocky-taylor actor-craig-kelly actor-liam-tuohy actor-simon-crane actor-james-lancaster actor-elsa-raven actor-reece-p-thompson-iii actor-laramie-landis actor-mark-rafael-truitt actor-john-walcutt actor-terry-forrestal actor-derek-lea actor-richard-ashton actor-sean-nepita actor-brendan-connolly actor-david-cronnelly actor-garth-wilton actor-richard-fox actor-nick-meaney actor-kevin-owers actor-mark-capri actor-marc-cass actor-paul-herbert actor-emmett-james actor-chris-byrne actor-oliver-page actor-james-garrett actor-erik-holland actor-jari-kinnunen actor-anders-falk actor-barry-dennen actor-vern-urich actor-rebecca-klingler actor-tricia-oneil actor-kathleen-s-dunn actor-romeo-francis actor-mandana-marino actor-van-ling actor-bjorn-olsen actor-dan-pettersson actor-shay-duffin actor-greg-ellis actor-diana-morgan actor-kris-andersson actor-bobbie-bates actor-aaron-james-cash actor-anne-fletcher actor-edmond-alan-forsyth actor-andie-hicks actor-scott-hislop actor-stan-mazin actor-lisa-ratzin actor-julene-renee actor-brian-walsh actor-alexandra-boyd actor-mike-butters actor-james-cameron actor-bruno-campolo actor-kevin-de-la-noy actor-tony-kenny actor-sean-lawlor actor-don-lynch actor-johnny-martin actor-ryan-mcclurkin actor-meghan-mcleod actor-mike-oneal actor-phil-parlapiano actor-steven-quale actor-olivia-rosewood actor-john-slade actor-r-gern-trowbridge entry"> <div class="entry-content"> <div id="movie-headbox-258" class="wpmoly block headbox imdb contained theme-lfm position-top"> <div class="wpmoly headbox imdb movie"> <div class="wpmoly headbox imdb movie poster"> <img width="200" height="300" alt="Poster for the movie &quot;Titanic&quot;" data-srcset="https://www.letsfindmovie.com/wp-content/uploads/2020/01/kHXEpyfl6zqn8a6YuozZUujufXf-200x300.jpg 200w, https://www.letsfindmovie.com/wp-content/uploads/2020/01/kHXEpyfl6zqn8a6YuozZUujufXf-683x1024.jpg 683w, https://www.letsfindmovie.com/wp-content/uploads/2020/01/kHXEpyfl6zqn8a6YuozZUujufXf-100x150.jpg 100w, https://www.letsfindmovie.com/wp-content/uploads/2020/01/kHXEpyfl6zqn8a6YuozZUujufXf-768x1152.jpg 768w, https://www.letsfindmovie.com/wp-content/uploads/2020/01/kHXEpyfl6zqn8a6YuozZUujufXf-1024x1536.jpg 1024w, https://www.letsfindmovie.com/wp-content/uploads/2020/01/kHXEpyfl6zqn8a6YuozZUujufXf.jpg 1200w" data-src="https://www.letsfindmovie.com/wp-content/uploads/2020/01/kHXEpyfl6zqn8a6YuozZUujufXf-200x300.jpg" data-sizes="(max-width: 200px) 100vw, 200px" class="attachment-medium size-medium wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/><noscript><img width="200" height="300" alt="Poster for the movie &quot;Titanic&quot;" data-srcset="https://www.letsfindmovie.com/wp-content/uploads/2020/01/kHXEpyfl6zqn8a6YuozZUujufXf-200x300.jpg 200w, https://www.letsfindmovie.com/wp-content/uploads/2020/01/kHXEpyfl6zqn8a6YuozZUujufXf-683x1024.jpg 683w, https://www.letsfindmovie.com/wp-content/uploads/2020/01/kHXEpyfl6zqn8a6YuozZUujufXf-100x150.jpg 100w, https://www.letsfindmovie.com/wp-content/uploads/2020/01/kHXEpyfl6zqn8a6YuozZUujufXf-768x1152.jpg 768w, https://www.letsfindmovie.com/wp-content/uploads/2020/01/kHXEpyfl6zqn8a6YuozZUujufXf-1024x1536.jpg 1024w, https://www.letsfindmovie.com/wp-content/uploads/2020/01/kHXEpyfl6zqn8a6YuozZUujufXf.jpg 1200w" data-src="https://www.letsfindmovie.com/wp-content/uploads/2020/01/kHXEpyfl6zqn8a6YuozZUujufXf-200x300.jpg" data-sizes="(max-width: 200px) 100vw, 200px" class="attachment-medium size-medium wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/><noscript><img onload="Wpfcll.r(this,true);" src="https://www.letsfindmovie.com/wp-content/plugins/wp-fastest-cache-premium/pro/images/blank.gif" width="200" height="300" wpfc-data-original-src="https://www.letsfindmovie.com/wp-content/uploads/2020/01/kHXEpyfl6zqn8a6YuozZUujufXf-200x300.jpg" class="attachment-medium size-medium wp-post-image" alt="Poster for the movie &quot;Titanic&quot;" wpfc-data-original-srcset="https://www.letsfindmovie.com/wp-content/uploads/2020/01/kHXEpyfl6zqn8a6YuozZUujufXf-200x300.jpg 200w, https://www.letsfindmovie.com/wp-content/uploads/2020/01/kHXEpyfl6zqn8a6YuozZUujufXf-683x1024.jpg 683w, https://www.letsfindmovie.com/wp-content/uploads/2020/01/kHXEpyfl6zqn8a6YuozZUujufXf-100x150.jpg 100w, https://www.letsfindmovie.com/wp-content/uploads/2020/01/kHXEpyfl6zqn8a6YuozZUujufXf-768x1152.jpg 768w, https://www.letsfindmovie.com/wp-content/uploads/2020/01/kHXEpyfl6zqn8a6YuozZUujufXf-1024x1536.jpg 1024w, https://www.letsfindmovie.com/wp-content/uploads/2020/01/kHXEpyfl6zqn8a6YuozZUujufXf.jpg 1200w" sizes="(max-width: 200px) 100vw, 200px"/></noscript></noscript></div><div class="wpmoly headbox imdb movie section"> <h2 class="wpmoly headbox imdb movie meta title">Titanic <span class="wpmoly headbox imdb movie meta year">(<a href="https://www.letsfindmovie.com/movies/date/1997" title="More movies released on 1997">1997</a>)</span></h2> <span class="wpmoly headbox imdb movie meta certification"><a href="https://www.letsfindmovie.com/movies/certification/pg-13" title="More movies certified PG-13">PG-13</a></span> <span class="wpmoly headbox imdb movie meta runtime">194 min</span> - <span class="wpmoly headbox imdb movie meta genres"><a href="https://www.letsfindmovie.com/genre/drama/" title="More movies from Drama">Drama</a>, <a href="https://www.letsfindmovie.com/genre/romance/" title="More movies from Romance">Romance</a>, <a href="https://www.letsfindmovie.com/genre/thriller/" title="More movies from Thriller">Thriller</a></span> - <span class="wpmoly headbox imdb movie meta release_date"><a href="https://www.letsfindmovie.com/movies/date/1997-11" title="More movies released on November 1997">18 November</a>&nbsp;<a href="https://www.letsfindmovie.com/movies/date/1997" title="More movies released on 1997">1997</a></span> <hr /> <span class="wpmoly headbox imdb movie rating starlined">Your rating: <div id="wpmoly-movie-rating-258" class="not-rated" title=""><small><em>Not rated yet!</em></small></div></span>
+<hr />
+<p>101-year-old Rose DeWitt Bukater tells the story of her life aboard the Titanic, 84 years later. A young Rose boards the ship with her mother and fiancé. Meanwhile, Jack Dawson and Fabrizio De Rossi win third-class tickets aboard the ship. Rose tells the whole story from Titanic's departure through to its death—on its first and last voyage—on April 15, 1912.</p>
+<div class="wpmoly headbox imdb movie meta director"> <span class="wpmoly headbox imdb movie meta label">Director:&nbsp;</span> <span class="wpmoly headbox imdb movie meta value"><a href="https://www.letsfindmovie.com/collection/james-cameron/" title="More movies from James Cameron">James Cameron</a></span></div><div class="wpmoly headbox imdb movie meta cast"> <span class="wpmoly headbox imdb movie meta label">Stars:&nbsp;</span> <span class="wpmoly headbox imdb movie meta value"><a href="https://www.letsfindmovie.com/actor/kate-winslet/" title="More movies from Kate Winslet">Kate Winslet</a>, <a href="https://www.letsfindmovie.com/actor/leonardo-dicaprio/" title="More movies from Leonardo DiCaprio">Leonardo DiCaprio</a>, <a href="https://www.letsfindmovie.com/actor/billy-zane/" title="More movies from Billy Zane">Billy Zane</a>, <a href="https://www.letsfindmovie.com/actor/kathy-bates/" title="More movies from Kathy Bates">Kathy Bates</a>, <a href="https://www.letsfindmovie.com/actor/frances-fisher/" title="More movies from Frances Fisher">Frances Fisher</a>, <a href="https://www.letsfindmovie.com/actor/gloria-stuart/" title="More movies from Gloria Stuart">Gloria Stuart</a>, <a href="https://www.letsfindmovie.com/actor/bill-paxton/" title="More movies from Bill Paxton">Bill Paxton</a>, <a href="https://www.letsfindmovie.com/actor/bernard-hill/" title="More movies from Bernard Hill">Bernard Hill</a>, <a href="https://www.letsfindmovie.com/actor/david-warner/" title="More movies from David Warner">David Warner</a>, <a href="https://www.letsfindmovie.com/actor/victor-garber/" title="More movies from Victor Garber">Victor Garber</a>, <a href="https://www.letsfindmovie.com/actor/jonathan-hyde/" title="More movies from Jonathan Hyde">Jonathan Hyde</a>, <a href="https://www.letsfindmovie.com/actor/suzy-amis/" title="More movies from Suzy Amis">Suzy Amis</a>, <a href="https://www.letsfindmovie.com/actor/lewis-abernathy/" title="More movies from Lewis Abernathy">Lewis Abernathy</a>, <a href="https://www.letsfindmovie.com/actor/nicholas-cascone/" title="More movies from Nicholas Cascone">Nicholas Cascone</a>, <a href="https://www.letsfindmovie.com/actor/danny-nucci/" title="More movies from Danny Nucci">Danny Nucci</a>, <a href="https://www.letsfindmovie.com/actor/jason-barry/" title="More movies from Jason Barry">Jason Barry</a>, <a href="https://www.letsfindmovie.com/actor/lew-palter/" title="More movies from Lew Palter">Lew Palter</a>, <a href="https://www.letsfindmovie.com/actor/eric-braeden/" title="More movies from Eric Braeden">Eric Braeden</a>, <a href="https://www.letsfindmovie.com/actor/bernard-fox/" title="More movies from Bernard Fox">Bernard Fox</a>, <a href="https://www.letsfindmovie.com/actor/ewan-stewart/" title="More movies from Ewan Stewart">Ewan Stewart</a>, <a href="https://www.letsfindmovie.com/actor/ioan-gruffudd/" title="More movies from Ioan Gruffudd">Ioan Gruffudd</a>, <a href="https://www.letsfindmovie.com/actor/jonny-phillips/" title="More movies from Jonny Phillips">Jonny Phillips</a>, <a href="https://www.letsfindmovie.com/actor/edward-fletcher/" title="More movies from Edward Fletcher">Edward Fletcher</a>, <a href="https://www.letsfindmovie.com/actor/scott-g-anderson/" title="More movies from Scott G. Anderson">Scott G. Anderson</a>, <a href="https://www.letsfindmovie.com/actor/martin-east/" title="More movies from Martin East">Martin East</a>, <a href="https://www.letsfindmovie.com/actor/gregory-cooke/" title="More movies from Gregory Cooke">Gregory Cooke</a>, <a href="https://www.letsfindmovie.com/actor/alexandrea-owens/" title="More movies from Alexandrea Owens">Alexandrea Owens</a>, <a href="https://www.letsfindmovie.com/actor/seth-adkins/" title="More movies from Seth Adkins">Seth Adkins</a>, <a href="https://www.letsfindmovie.com/actor/michael-ensign/" title="More movies from Michael Ensign">Michael Ensign</a>, <a href="https://www.letsfindmovie.com/actor/anatoly-m-sagalevitch/" title="More movies from Anatoly M. Sagalevitch">Anatoly M. Sagalevitch</a>, <a href="https://www.letsfindmovie.com/actor/martin-hub/" title="More movies from Martin Hub">Martin Hub</a>, <a href="https://www.letsfindmovie.com/actor/mark-lindsay-chapman/" title="More movies from Mark Lindsay Chapman">Mark Lindsay Chapman</a>, <a href="https://www.letsfindmovie.com/actor/richard-graham/" title="More movies from Richard Graham">Richard Graham</a>, <a href="https://www.letsfindmovie.com/actor/paul-brightwell/" title="More movies from Paul Brightwell">Paul Brightwell</a>, <a href="https://www.letsfindmovie.com/actor/ron-donachie/" title="More movies from Ron Donachie">Ron Donachie</a>, <a href="https://www.letsfindmovie.com/actor/charlotte-chatton/" title="More movies from Charlotte Chatton">Charlotte Chatton</a>, <a href="https://www.letsfindmovie.com/actor/fannie-brett/" title="More movies from Fannie Brett">Fannie Brett</a>, <a href="https://www.letsfindmovie.com/actor/jenette-goldstein/" title="More movies from Jenette Goldstein">Jenette Goldstein</a>, <a href="https://www.letsfindmovie.com/actor/camilla-overbye-roos/" title="More movies from Camilla Overbye Roos">Camilla Overbye Roos</a>, <a href="https://www.letsfindmovie.com/actor/linda-kerns/" title="More movies from Linda Kerns">Linda Kerns</a>, <a href="https://www.letsfindmovie.com/actor/amy-gaipa/" title="More movies from Amy Gaipa">Amy Gaipa</a>, <a href="https://www.letsfindmovie.com/actor/martin-jarvis/" title="More movies from Martin Jarvis">Martin Jarvis</a>, <a href="https://www.letsfindmovie.com/actor/rosalind-ayres/" title="More movies from Rosalind Ayres">Rosalind Ayres</a>, <a href="https://www.letsfindmovie.com/actor/rochelle-rose/" title="More movies from Rochelle Rose">Rochelle Rose</a>, <a href="https://www.letsfindmovie.com/actor/jonathan-evans-jones/" title="More movies from Jonathan Evans-Jones">Jonathan Evans-Jones</a>, <a href="https://www.letsfindmovie.com/actor/rocky-taylor/" title="More movies from Rocky Taylor">Rocky Taylor</a>, <a href="https://www.letsfindmovie.com/actor/craig-kelly/" title="More movies from Craig Kelly">Craig Kelly</a>, <a href="https://www.letsfindmovie.com/actor/liam-tuohy/" title="More movies from Liam Tuohy">Liam Tuohy</a>, <a href="https://www.letsfindmovie.com/actor/simon-crane/" title="More movies from Simon Crane">Simon Crane</a>, <a href="https://www.letsfindmovie.com/actor/james-lancaster/" title="More movies from James Lancaster">James Lancaster</a>, <a href="https://www.letsfindmovie.com/actor/elsa-raven/" title="More movies from Elsa Raven">Elsa Raven</a>, <a href="https://www.letsfindmovie.com/actor/reece-p-thompson-iii/" title="More movies from Reece P. Thompson III">Reece P. Thompson III</a>, <a href="https://www.letsfindmovie.com/actor/laramie-landis/" title="More movies from Laramie Landis">Laramie Landis</a>, <a href="https://www.letsfindmovie.com/actor/mark-rafael-truitt/" title="More movies from Mark Rafael Truitt">Mark Rafael Truitt</a>, <a href="https://www.letsfindmovie.com/actor/john-walcutt/" title="More movies from John Walcutt">John Walcutt</a>, <a href="https://www.letsfindmovie.com/actor/terry-forrestal/" title="More movies from Terry Forrestal">Terry Forrestal</a>, <a href="https://www.letsfindmovie.com/actor/derek-lea/" title="More movies from Derek Lea">Derek Lea</a>, <a href="https://www.letsfindmovie.com/actor/richard-ashton/" title="More movies from Richard Ashton">Richard Ashton</a>, <a href="https://www.letsfindmovie.com/actor/sean-nepita/" title="More movies from Sean Nepita">Sean Nepita</a>, <a href="https://www.letsfindmovie.com/actor/brendan-connolly/" title="More movies from Brendan Connolly">Brendan Connolly</a>, <a href="https://www.letsfindmovie.com/actor/david-cronnelly/" title="More movies from David Cronnelly">David Cronnelly</a>, <a href="https://www.letsfindmovie.com/actor/garth-wilton/" title="More movies from Garth Wilton">Garth Wilton</a>, <a href="https://www.letsfindmovie.com/actor/richard-fox/" title="More movies from Richard Fox">Richard Fox</a>, <a href="https://www.letsfindmovie.com/actor/nick-meaney/" title="More movies from Nick Meaney">Nick Meaney</a>, <a href="https://www.letsfindmovie.com/actor/kevin-owers/" title="More movies from Kevin Owers">Kevin Owers</a>, <a href="https://www.letsfindmovie.com/actor/mark-capri/" title="More movies from Mark Capri">Mark Capri</a>, <a href="https://www.letsfindmovie.com/actor/marc-cass/" title="More movies from Marc Cass">Marc Cass</a>, <a href="https://www.letsfindmovie.com/actor/paul-herbert/" title="More movies from Paul Herbert">Paul Herbert</a>, <a href="https://www.letsfindmovie.com/actor/emmett-james/" title="More movies from Emmett James">Emmett James</a>, <a href="https://www.letsfindmovie.com/actor/chris-byrne/" title="More movies from Chris Byrne">Chris Byrne</a>, <a href="https://www.letsfindmovie.com/actor/oliver-page/" title="More movies from Oliver Page">Oliver Page</a>, <a href="https://www.letsfindmovie.com/actor/james-garrett/" title="More movies from James Garrett">James Garrett</a>, <a href="https://www.letsfindmovie.com/actor/erik-holland/" title="More movies from Erik Holland">Erik Holland</a>, <a href="https://www.letsfindmovie.com/actor/jari-kinnunen/" title="More movies from Jari Kinnunen">Jari Kinnunen</a>, <a href="https://www.letsfindmovie.com/actor/anders-falk/" title="More movies from Anders Falk">Anders Falk</a>, <a href="https://www.letsfindmovie.com/actor/barry-dennen/" title="More movies from Barry Dennen">Barry Dennen</a>, <a href="https://www.letsfindmovie.com/actor/vern-urich/" title="More movies from Vern Urich">Vern Urich</a>, <a href="https://www.letsfindmovie.com/actor/rebecca-klingler/" title="More movies from Rebecca Klingler">Rebecca Klingler</a>, <a href="https://www.letsfindmovie.com/actor/tricia-oneil/" title="More movies from Tricia O'Neil">Tricia O'Neil</a>, <a href="https://www.letsfindmovie.com/actor/kathleen-s-dunn/" title="More movies from Kathleen S. Dunn">Kathleen S. Dunn</a>, <a href="https://www.letsfindmovie.com/actor/romeo-francis/" title="More movies from Romeo Francis">Romeo Francis</a>, <a href="https://www.letsfindmovie.com/actor/mandana-marino/" title="More movies from Mandana Marino">Mandana Marino</a>, <a href="https://www.letsfindmovie.com/actor/van-ling/" title="More movies from Van Ling">Van Ling</a>, <a href="https://www.letsfindmovie.com/actor/bjorn-olsen/" title="More movies from Bjørn Olsen">Bjørn Olsen</a>, <a href="https://www.letsfindmovie.com/actor/dan-pettersson/" title="More movies from Dan Pettersson">Dan Pettersson</a>, <a href="https://www.letsfindmovie.com/actor/shay-duffin/" title="More movies from Shay Duffin">Shay Duffin</a>, <a href="https://www.letsfindmovie.com/actor/greg-ellis/" title="More movies from Greg Ellis">Greg Ellis</a>, <a href="https://www.letsfindmovie.com/actor/diana-morgan/" title="More movies from Diana Morgan">Diana Morgan</a>, <a href="https://www.letsfindmovie.com/actor/kris-andersson/" title="More movies from Kris Andersson">Kris Andersson</a>, <a href="https://www.letsfindmovie.com/actor/bobbie-bates/" title="More movies from Bobbie Bates">Bobbie Bates</a>, <a href="https://www.letsfindmovie.com/actor/aaron-james-cash/" title="More movies from Aaron James Cash">Aaron James Cash</a>, <a href="https://www.letsfindmovie.com/actor/anne-fletcher/" title="More movies from Anne Fletcher">Anne Fletcher</a>, <a href="https://www.letsfindmovie.com/actor/edmond-alan-forsyth/" title="More movies from Edmond Alan Forsyth">Edmond Alan Forsyth</a>, <a href="https://www.letsfindmovie.com/actor/andie-hicks/" title="More movies from Andie Hicks">Andie Hicks</a>, <a href="https://www.letsfindmovie.com/actor/scott-hislop/" title="More movies from Scott Hislop">Scott Hislop</a>, <a href="https://www.letsfindmovie.com/actor/stan-mazin/" title="More movies from Stan Mazin">Stan Mazin</a>, <a href="https://www.letsfindmovie.com/actor/lisa-ratzin/" title="More movies from Lisa Ratzin">Lisa Ratzin</a>, <a href="https://www.letsfindmovie.com/actor/julene-renee/" title="More movies from Julene Renee">Julene Renee</a>, <a href="https://www.letsfindmovie.com/actor/brian-walsh/" title="More movies from Brian Walsh">Brian Walsh</a>, <a href="https://www.letsfindmovie.com/actor/alexandra-boyd/" title="More movies from Alexandra Boyd">Alexandra Boyd</a>, <a href="https://www.letsfindmovie.com/actor/mike-butters/" title="More movies from Mike Butters">Mike Butters</a>, <a href="https://www.letsfindmovie.com/actor/james-cameron/" title="More movies from James Cameron">James Cameron</a>, <a href="https://www.letsfindmovie.com/actor/bruno-campolo/" title="More movies from Bruno Campolo">Bruno Campolo</a>, <a href="https://www.letsfindmovie.com/actor/kevin-de-la-noy/" title="More movies from Kevin De La Noy">Kevin De La Noy</a>, <a href="https://www.letsfindmovie.com/actor/tony-kenny/" title="More movies from Tony Kenny">Tony Kenny</a>, <a href="https://www.letsfindmovie.com/actor/sean-lawlor/" title="More movies from Sean Lawlor">Sean Lawlor</a>, <a href="https://www.letsfindmovie.com/actor/don-lynch/" title="More movies from Don Lynch">Don Lynch</a>, <a href="https://www.letsfindmovie.com/actor/johnny-martin/" title="More movies from Johnny Martin">Johnny Martin</a>, <a href="https://www.letsfindmovie.com/actor/ryan-mcclurkin/" title="More movies from Ryan McClurkin">Ryan McClurkin</a>, <a href="https://www.letsfindmovie.com/actor/meghan-mcleod/" title="More movies from Meghan McLeod">Meghan McLeod</a>, <a href="https://www.letsfindmovie.com/actor/mike-oneal/" title="More movies from Mike O'Neal">Mike O'Neal</a>, <a href="https://www.letsfindmovie.com/actor/phil-parlapiano/" title="More movies from Phil Parlapiano">Phil Parlapiano</a>, <a href="https://www.letsfindmovie.com/actor/steven-quale/" title="More movies from Steven Quale">Steven Quale</a>, <a href="https://www.letsfindmovie.com/actor/olivia-rosewood/" title="More movies from Olivia Rosewood">Olivia Rosewood</a>, <a href="https://www.letsfindmovie.com/actor/john-slade/" title="More movies from John Slade">John Slade</a>, <a href="https://www.letsfindmovie.com/actor/r-gern-trowbridge/" title="More movies from R. Gern Trowbridge">R. Gern Trowbridge</a></span></div></div><div class="wpmoly headbox imdb movie section images"> <h3 class="wpmoly headbox imdb movie meta sub-title">Photos</h3> <div class="wpmoly headbox movie meta images"> <ul class="wpmoly shortcode thumbnail images list"> <li class="wpmoly shortcode imported thumbnail image"> <a class="wpmoly shortcode imported thumbnail image link" href="https://www.letsfindmovie.com/wp-content/uploads/2020/01/fiIddOVKXyxpeDJ8swsVmw9DHpO.jpg"> <img width="150" height="84" alt="" data-src="https://www.letsfindmovie.com/wp-content/uploads/2020/01/fiIddOVKXyxpeDJ8swsVmw9DHpO-150x84.jpg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/><noscript><img onload="Wpfcll.r(this,true);" src="https://www.letsfindmovie.com/wp-content/plugins/wp-fastest-cache-premium/pro/images/blank.gif" wpfc-data-original-src="https://www.letsfindmovie.com/wp-content/uploads/2020/01/fiIddOVKXyxpeDJ8swsVmw9DHpO-150x84.jpg" width="150" height="84" alt=""/></noscript> </a> </li> </ul></div></div><div class="wpmoly headbox imdb movie section storyline"> <h3 class="wpmoly headbox imdb movie meta sub-title">Storyline</h3> <p class="wpmoly headbox imdb movie meta overview">101-year-old Rose DeWitt Bukater tells the story of her life aboard the Titanic, 84 years later. A young Rose boards the ship with her mother and fiancé. Meanwhile, Jack Dawson and Fabrizio De Rossi win third-class tickets aboard the ship. Rose tells the whole story from Titanic's departure through to its death—on its first and last voyage—on April 15, 1912.</p> <hr /> <div class="wpmoly headbox imdb movie meta collections"> <span class="wpmoly headbox imdb movie meta label">Collections:</span> <span class="wpmoly headbox imdb movie meta value"><a href="https://www.letsfindmovie.com/collection/james-cameron/" title="More movies from James Cameron">James Cameron</a>, <a href="https://www.letsfindmovie.com/collection/popular-movies/" title="More movies from Popular Movies">Popular Movies</a></span></div><hr />
+<div class="wpmoly headbox imdb movie meta tagline"> <span class="wpmoly headbox imdb movie meta label">Tagline:</span> <span class="wpmoly headbox imdb movie meta value">Nothing on Earth could come between them.</span></div><hr />
+<div class="wpmoly headbox imdb movie meta genres"> <span class="wpmoly headbox imdb movie meta label">Genres:</span> <span class="wpmoly headbox imdb movie meta value"><a href="https://www.letsfindmovie.com/genre/drama/" title="More movies from Drama">Drama</a>, <a href="https://www.letsfindmovie.com/genre/romance/" title="More movies from Romance">Romance</a>, <a href="https://www.letsfindmovie.com/genre/thriller/" title="More movies from Thriller">Thriller</a></span></div></div><div class="wpmoly headbox imdb movie section production-details"> <h3 class="wpmoly headbox imdb movie meta sub-title">Details</h3> <div class="wpmoly headbox imdb movie meta homepage"> <span class="wpmoly headbox imdb movie meta label">Official Website:&nbsp;</span> <span class="wpmoly headbox imdb movie meta value">&mdash;</span></div><div class="wpmoly headbox imdb movie meta production_countries"> <span class="wpmoly headbox imdb movie meta label">Country:&nbsp;</span> <span class="wpmoly headbox imdb movie meta value"><span class="flag flag-us" title="United States of America"></span>&nbsp;<a href="https://www.letsfindmovie.com/movies/country/united-states-of-america" title="More movies from country United States of America">United States of America</a></span></div><div class="wpmoly headbox imdb movie meta spoken_languages"> <span class="wpmoly headbox imdb movie meta label">Language:&nbsp;</span> <span class="wpmoly headbox imdb movie meta value"><a href="https://www.letsfindmovie.com/movies/language/english" title="More movies in English">English</a>, <a href="https://www.letsfindmovie.com/movies/language/french" title="More movies in French">French</a>, <a href="https://www.letsfindmovie.com/movies/language/german" title="More movies in German">German</a>, <a href="https://www.letsfindmovie.com/movies/language/svenska" title="More movies in svenska">svenska</a>, <a href="https://www.letsfindmovie.com/movies/language/italian" title="More movies in Italian">Italian</a>, <a href="https://www.letsfindmovie.com/movies/language/russian" title="More movies in Russian">Russian</a></span></div><div class="wpmoly headbox imdb movie meta release_date"> <span class="wpmoly headbox imdb movie meta label">Release Date:&nbsp;</span> <span class="wpmoly headbox imdb movie meta value"><a href="https://www.letsfindmovie.com/movies/date/1997-11" title="More movies released on November 1997">18 November</a>&nbsp;<a href="https://www.letsfindmovie.com/movies/date/1997" title="More movies released on 1997">1997</a></span></div></div><div class="wpmoly headbox imdb movie section box-office"> <h3 class="wpmoly headbox imdb movie meta sub-title">Box Office</h3> <div class="wpmoly headbox imdb movie meta budget"> <span class="wpmoly headbox imdb movie meta label">Budget:&nbsp;</span> <span class="wpmoly headbox imdb movie meta value">$200,000,000</span></div><div class="wpmoly headbox imdb movie meta revenue"> <span class="wpmoly headbox imdb movie meta label">Revenue:&nbsp;</span> <span class="wpmoly headbox imdb movie meta value">$1,845,034,188</span></div></div><div class="wpmoly headbox imdb movie section companies"> <h3 class="wpmoly headbox imdb movie meta sub-title">Company Credits</h3> <div class="wpmoly headbox imdb movie meta production_companies"> <span class="wpmoly headbox imdb movie meta label">Production Companies:&nbsp;</span> <span class="wpmoly headbox imdb movie meta value"><a href="https://www.letsfindmovie.com/movies/production/paramount" title="More movies produced by Paramount">Paramount</a>, <a href="https://www.letsfindmovie.com/movies/production/lightstorm-entertainment" title="More movies produced by Lightstorm Entertainment">Lightstorm Entertainment</a>, <a href="https://www.letsfindmovie.com/movies/production/20th-century-fox" title="More movies produced by 20th Century Fox">20th Century Fox</a></span></div></div><div class="wpmoly headbox imdb movie section tech-specs"> <h3 class="wpmoly headbox imdb movie meta sub-title">Technical Specs</h3> <div class="wpmoly headbox imdb movie meta runtime"> <span class="wpmoly headbox imdb movie meta label">Runtime:&nbsp;</span> <span class="wpmoly headbox imdb movie meta value">3 h 14 min</span></div></div></div><div style="clear:both"></div></div></div><footer class="entry-footer">
+</footer>
+</article>
+<div class="lfm-details-banner-img site-featured-image"> <img data-src='https://www.letsfindmovie.com/wp-content/uploads/2020/01/fiIddOVKXyxpeDJ8swsVmw9DHpO.jpg' class='lazyload' src='data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=='><noscript><img src="https://www.letsfindmovie.com/wp-content/uploads/2020/01/fiIddOVKXyxpeDJ8swsVmw9DHpO.jpg"></noscript></div><div class="details-carousel-inner"> <div class="lfm-third"> <img width="200" height="300" alt="Poster for the movie &quot;Titanic&quot;" data-srcset="https://www.letsfindmovie.com/wp-content/uploads/2020/01/kHXEpyfl6zqn8a6YuozZUujufXf-200x300.jpg 200w, https://www.letsfindmovie.com/wp-content/uploads/2020/01/kHXEpyfl6zqn8a6YuozZUujufXf-683x1024.jpg 683w, https://www.letsfindmovie.com/wp-content/uploads/2020/01/kHXEpyfl6zqn8a6YuozZUujufXf-100x150.jpg 100w, https://www.letsfindmovie.com/wp-content/uploads/2020/01/kHXEpyfl6zqn8a6YuozZUujufXf-768x1152.jpg 768w, https://www.letsfindmovie.com/wp-content/uploads/2020/01/kHXEpyfl6zqn8a6YuozZUujufXf-1024x1536.jpg 1024w, https://www.letsfindmovie.com/wp-content/uploads/2020/01/kHXEpyfl6zqn8a6YuozZUujufXf.jpg 1200w" data-src="https://www.letsfindmovie.com/wp-content/uploads/2020/01/kHXEpyfl6zqn8a6YuozZUujufXf-200x300.jpg" data-sizes="(max-width: 200px) 100vw, 200px" class="attachment-medium size-medium wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/><noscript><img width="200" height="300" alt="Poster for the movie &quot;Titanic&quot;" data-srcset="https://www.letsfindmovie.com/wp-content/uploads/2020/01/kHXEpyfl6zqn8a6YuozZUujufXf-200x300.jpg 200w, https://www.letsfindmovie.com/wp-content/uploads/2020/01/kHXEpyfl6zqn8a6YuozZUujufXf-683x1024.jpg 683w, https://www.letsfindmovie.com/wp-content/uploads/2020/01/kHXEpyfl6zqn8a6YuozZUujufXf-100x150.jpg 100w, https://www.letsfindmovie.com/wp-content/uploads/2020/01/kHXEpyfl6zqn8a6YuozZUujufXf-768x1152.jpg 768w, https://www.letsfindmovie.com/wp-content/uploads/2020/01/kHXEpyfl6zqn8a6YuozZUujufXf-1024x1536.jpg 1024w, https://www.letsfindmovie.com/wp-content/uploads/2020/01/kHXEpyfl6zqn8a6YuozZUujufXf.jpg 1200w" data-src="https://www.letsfindmovie.com/wp-content/uploads/2020/01/kHXEpyfl6zqn8a6YuozZUujufXf-200x300.jpg" data-sizes="(max-width: 200px) 100vw, 200px" class="attachment-medium size-medium wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/><noscript><img onload="Wpfcll.r(this,true);" src="https://www.letsfindmovie.com/wp-content/plugins/wp-fastest-cache-premium/pro/images/blank.gif" width="200" height="300" wpfc-data-original-src="https://www.letsfindmovie.com/wp-content/uploads/2020/01/kHXEpyfl6zqn8a6YuozZUujufXf-200x300.jpg" class="attachment-medium size-medium wp-post-image" alt="Poster for the movie &quot;Titanic&quot;" wpfc-data-original-srcset="https://www.letsfindmovie.com/wp-content/uploads/2020/01/kHXEpyfl6zqn8a6YuozZUujufXf-200x300.jpg 200w, https://www.letsfindmovie.com/wp-content/uploads/2020/01/kHXEpyfl6zqn8a6YuozZUujufXf-683x1024.jpg 683w, https://www.letsfindmovie.com/wp-content/uploads/2020/01/kHXEpyfl6zqn8a6YuozZUujufXf-100x150.jpg 100w, https://www.letsfindmovie.com/wp-content/uploads/2020/01/kHXEpyfl6zqn8a6YuozZUujufXf-768x1152.jpg 768w, https://www.letsfindmovie.com/wp-content/uploads/2020/01/kHXEpyfl6zqn8a6YuozZUujufXf-1024x1536.jpg 1024w, https://www.letsfindmovie.com/wp-content/uploads/2020/01/kHXEpyfl6zqn8a6YuozZUujufXf.jpg 1200w" sizes="(max-width: 200px) 100vw, 200px"/></noscript></noscript></div><div class="lfm-rest"> <h2>Titanic<span class="year-badge"> (1997)</span></h2> <div class="col-sm-6 col1"> <div class="col-sm-12"> <div class="col-sm-5 col-xs-5"> <span>Rating </span></div><div class="star-rating col-sm-7 col-xs-7 text-bold"> <span class="imdbRatingPlugin" data-user="ur112175409" data-title="tt0120338" data-style="p1"><a href="https://www.imdb.com/title/tt0120338/?ref_=plg_rt_1" target="_blank"><img alt="Titanic on IMDb" data-src="https://ia.media-imdb.com/images/G/01/imdb/plugins/rating/images/imdb_46x22.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/><noscript><img onload="Wpfcll.r(this,true);" src="https://www.letsfindmovie.com/wp-content/plugins/wp-fastest-cache-premium/pro/images/blank.gif" wpfc-data-original-src="https://ia.media-imdb.com/images/G/01/imdb/plugins/rating/images/imdb_46x22.png" alt="Titanic on IMDb"/></noscript> </a></span></div></div><div class="col-sm-12"> <div class="col-sm-5 col-xs-5 text-bold"> <span>Genres </span></div><div class="col-sm-7 col-xs-7"> <label><a href="https://www.letsfindmovie.com/genre/drama/" title="More movies from Drama">Drama</a>, <a href="https://www.letsfindmovie.com/genre/romance/" title="More movies from Romance">Romance</a>, <a href="https://www.letsfindmovie.com/genre/thriller/" title="More movies from Thriller">Thriller</a></label></div></div><div class="col-sm-12"> <div class="col-sm-5 col-xs-5 text-bold"> <span>Run Time </span></div><div class="col-sm-7 col-xs-7"> <label>3 h 14 min</label></div></div><div class="col-sm-12"> <div class="col-sm-5 col-xs-5 text-bold"> <span>Age Rating </span></div><div class="col-sm-7 col-xs-7"> <label> U/A </label></div></div></div><div class="col-sm-6 col2"> <div class="col-sm-12"> <div class="col-sm-5 col-xs-5 text-bold"> <span>User Ratings</span></div><div class="col-sm-7 col-xs-7"> <label><span class="badge">5 / 5&nbsp(1)</span><div id="yasr_visitor_votes_258" class="yasr-visitor-votes"><div id="yasr-visitor-votes-rater-6516d86b7a181" class="yasr-rater-stars-visitor-votes" data-rater-postid="258" data-rating="5" data-rater-starsize="32" data-rater-readonly="false" data-rater-nonce="1739ed57ea" data-issingular="true"></div><span id="yasr-visitor-votes-container-after-stars-6516d86b7a181" class='yasr-visitor-votes-after-stars-class'><span class="yasr-total-average-container" id="yasr-total-average-text_258">
+[Reviews: 1 &nbsp; &nbsp;Ratings: 5/5]
+</span></span></div></label></div></div><div class="col-sm-12"> <div class="col-sm-5 col-xs-5 text-bold"> <span>Director Name</span></div><div class="col-sm-7 col-xs-7"> <label><a href="https://www.letsfindmovie.com/collection/james-cameron/" title="More movies from James Cameron">James Cameron</a></label></div></div><div class="col-sm-12"> <div class="col-sm-5 col-xs-5 text-bold"> <span>Release Date</span></div><div class="col-sm-7 col-xs-7"> <label class="not-active"><a href="https://www.letsfindmovie.com/movies/date/1997-11" title="More movies released on November 1997">18 November</a>&nbsp;<a href="https://www.letsfindmovie.com/movies/date/1997" title="More movies released on 1997">1997</a></label></div></div><div class="col-sm-12"> <div class="col-sm-5 col-xs-5 text-bold"> <span>Language</span></div><div class="col-sm-7 col-xs-7"> <label class="not-active"><a href="https://www.letsfindmovie.com/movies/language/english" title="More movies in English">English</a>, <a href="https://www.letsfindmovie.com/movies/language/french" title="More movies in French">French</a>, <a href="https://www.letsfindmovie.com/movies/language/german" title="More movies in German">German</a>, <a href="https://www.letsfindmovie.com/movies/language/svenska" title="More movies in svenska">svenska</a>, <a href="https://www.letsfindmovie.com/movies/language/italian" title="More movies in Italian">Italian</a>, <a href="https://www.letsfindmovie.com/movies/language/russian" title="More movies in Russian">Russian</a></label></div></div></div><div class="col-sm-12 lfm-margin-top"> <div class="col-sm-2 col-sm-1 col-xs-1 center-button"> <a target="_blank" href="https://www.hotstar.com/in/movies/titanic/1770001166" class="btn btn1">Watch Now</a></div></div></div></div><section class="lfm-second-section">
+<div class="container-fluid text-center"> <div class="lfm-logos lfm-logo-details"> <div class="row"> <div class="col-md-4 col-sm-2 col-xs-2"> <span class="title">Stream</span> <div class="stream-details"> <div class="stream-center"> <ul> <li><a href="https://www.hotstar.com/in/movies/titanic/1770001166" target="_blank"> <img data-src="https://www.letsfindmovie.com/wp-content/themes/lfm/images/logos/hotstar.jpg" class="imgcircle lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img class="imgcircle" src="https://www.letsfindmovie.com/wp-content/themes/lfm/images/logos/hotstar.jpg" class="responsive"></noscript><br> <span class="logo-name">Hotstar</span></a></li> </ul></div></div></div><div class="col-md-4 col-sm-2 col-xs-2"> <span class="title">Rent</span> <div class="rent-details"> <div class="rent-center"> <p>Not available to rent.</p></div></div></div><div class="col-md-4 col-sm-2 col-xs-2"> <span class="title">Buy</span> <div class="buy-details"> <div class="buy-center"> <p>Not available to buy.</p></div></div></div></div></div></div></section>
+<section class="lfm-third-section lfm-trailer-section">
+<div class="container-fluid"> <div class="row"> <div class="col-md-6 col-sm-2 col-xs-2"> <div class="lfm-heading"> <h2>Trailer Watch</h2></div><iframe width="100%" height="351"  data-src="https://www.youtube.com/embed/kVrqfYjkTdQ" class="lazyload" onload="Wpfcll.r(this,true);" wpfc-data-original-src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+</iframe></div><div class="col-md-6 col-sm-2 col-xs-2"> <div class="lfm-heading"> <h2>Cast</h2></div><ul>
+<a href="https://www.letsfindmovie.com/actor/kate-winslet/" title="More movies from Kate Winslet">Kate Winslet</a>, <a href="https://www.letsfindmovie.com/actor/leonardo-dicaprio/" title="More movies from Leonardo DiCaprio">Leonardo DiCaprio</a>, <a href="https://www.letsfindmovie.com/actor/billy-zane/" title="More movies from Billy Zane">Billy Zane</a>, <a href="https://www.letsfindmovie.com/actor/kathy-bates/" title="More movies from Kathy Bates">Kathy Bates</a>, <a href="https://www.letsfindmovie.com/actor/frances-fisher/" title="More movies from Frances Fisher">Frances Fisher</a>, <a href="https://www.letsfindmovie.com/actor/gloria-stuart/" title="More movies from Gloria Stuart">Gloria Stuart</a>, <a href="https://www.letsfindmovie.com/actor/bill-paxton/" title="More movies from Bill Paxton">Bill Paxton</a>, <a href="https://www.letsfindmovie.com/actor/bernard-hill/" title="More movies from Bernard Hill">Bernard Hill</a>, <a href="https://www.letsfindmovie.com/actor/david-warner/" title="More movies from David Warner">David Warner</a>, <a href="https://www.letsfindmovie.com/actor/victor-garber/" title="More movies from Victor Garber">Victor Garber</a>, <a href="https://www.letsfindmovie.com/actor/jonathan-hyde/" title="More movies from Jonathan Hyde">Jonathan Hyde</a>, <a href="https://www.letsfindmovie.com/actor/suzy-amis/" title="More movies from Suzy Amis">Suzy Amis</a>, <a href="https://www.letsfindmovie.com/actor/lewis-abernathy/" title="More movies from Lewis Abernathy">Lewis Abernathy</a>, <a href="https://www.letsfindmovie.com/actor/nicholas-cascone/" title="More movies from Nicholas Cascone">Nicholas Cascone</a>, <a href="https://www.letsfindmovie.com/actor/danny-nucci/" title="More movies from Danny Nucci">Danny Nucci</a>, <a href="https://www.letsfindmovie.com/actor/jason-barry/" title="More movies from Jason Barry">Jason Barry</a>, <a href="https://www.letsfindmovie.com/actor/lew-palter/" title="More movies from Lew Palter">Lew Palter</a>, <a href="https://www.letsfindmovie.com/actor/eric-braeden/" title="More movies from Eric Braeden">Eric Braeden</a>, <a href="https://www.letsfindmovie.com/actor/bernard-fox/" title="More movies from Bernard Fox">Bernard Fox</a>, <a href="https://www.letsfindmovie.com/actor/ewan-stewart/" title="More movies from Ewan Stewart">Ewan Stewart</a>, <a href="https://www.letsfindmovie.com/actor/ioan-gruffudd/" title="More movies from Ioan Gruffudd">Ioan Gruffudd</a>, <a href="https://www.letsfindmovie.com/actor/jonny-phillips/" title="More movies from Jonny Phillips">Jonny Phillips</a>, <a href="https://www.letsfindmovie.com/actor/edward-fletcher/" title="More movies from Edward Fletcher">Edward Fletcher</a>, <a href="https://www.letsfindmovie.com/actor/scott-g-anderson/" title="More movies from Scott G. Anderson">Scott G. Anderson</a>, <a href="https://www.letsfindmovie.com/actor/martin-east/" title="More movies from Martin East">Martin East</a>, <a href="https://www.letsfindmovie.com/actor/gregory-cooke/" title="More movies from Gregory Cooke">Gregory Cooke</a>, <a href="https://www.letsfindmovie.com/actor/alexandrea-owens/" title="More movies from Alexandrea Owens">Alexandrea Owens</a>, <a href="https://www.letsfindmovie.com/actor/seth-adkins/" title="More movies from Seth Adkins">Seth Adkins</a>, <a href="https://www.letsfindmovie.com/actor/michael-ensign/" title="More movies from Michael Ensign">Michael Ensign</a>, <a href="https://www.letsfindmovie.com/actor/anatoly-m-sagalevitch/" title="More movies from Anatoly M. Sagalevitch">Anatoly M. Sagalevitch</a>, <a href="https://www.letsfindmovie.com/actor/martin-hub/" title="More movies from Martin Hub">Martin Hub</a>, <a href="https://www.letsfindmovie.com/actor/mark-lindsay-chapman/" title="More movies from Mark Lindsay Chapman">Mark Lindsay Chapman</a>, <a href="https://www.letsfindmovie.com/actor/richard-graham/" title="More movies from Richard Graham">Richard Graham</a>, <a href="https://www.letsfindmovie.com/actor/paul-brightwell/" title="More movies from Paul Brightwell">Paul Brightwell</a>, <a href="https://www.letsfindmovie.com/actor/ron-donachie/" title="More movies from Ron Donachie">Ron Donachie</a>, <a href="https://www.letsfindmovie.com/actor/charlotte-chatton/" title="More movies from Charlotte Chatton">Charlotte Chatton</a>, <a href="https://www.letsfindmovie.com/actor/fannie-brett/" title="More movies from Fannie Brett">Fannie Brett</a>, <a href="https://www.letsfindmovie.com/actor/jenette-goldstein/" title="More movies from Jenette Goldstein">Jenette Goldstein</a>, <a href="https://www.letsfindmovie.com/actor/camilla-overbye-roos/" title="More movies from Camilla Overbye Roos">Camilla Overbye Roos</a>, <a href="https://www.letsfindmovie.com/actor/linda-kerns/" title="More movies from Linda Kerns">Linda Kerns</a>, <a href="https://www.letsfindmovie.com/actor/amy-gaipa/" title="More movies from Amy Gaipa">Amy Gaipa</a>, <a href="https://www.letsfindmovie.com/actor/martin-jarvis/" title="More movies from Martin Jarvis">Martin Jarvis</a>, <a href="https://www.letsfindmovie.com/actor/rosalind-ayres/" title="More movies from Rosalind Ayres">Rosalind Ayres</a>, <a href="https://www.letsfindmovie.com/actor/rochelle-rose/" title="More movies from Rochelle Rose">Rochelle Rose</a>, <a href="https://www.letsfindmovie.com/actor/jonathan-evans-jones/" title="More movies from Jonathan Evans-Jones">Jonathan Evans-Jones</a>, <a href="https://www.letsfindmovie.com/actor/rocky-taylor/" title="More movies from Rocky Taylor">Rocky Taylor</a>, <a href="https://www.letsfindmovie.com/actor/craig-kelly/" title="More movies from Craig Kelly">Craig Kelly</a>, <a href="https://www.letsfindmovie.com/actor/liam-tuohy/" title="More movies from Liam Tuohy">Liam Tuohy</a>, <a href="https://www.letsfindmovie.com/actor/simon-crane/" title="More movies from Simon Crane">Simon Crane</a>, <a href="https://www.letsfindmovie.com/actor/james-lancaster/" title="More movies from James Lancaster">James Lancaster</a>, <a href="https://www.letsfindmovie.com/actor/elsa-raven/" title="More movies from Elsa Raven">Elsa Raven</a>, <a href="https://www.letsfindmovie.com/actor/reece-p-thompson-iii/" title="More movies from Reece P. Thompson III">Reece P. Thompson III</a>, <a href="https://www.letsfindmovie.com/actor/laramie-landis/" title="More movies from Laramie Landis">Laramie Landis</a>, <a href="https://www.letsfindmovie.com/actor/mark-rafael-truitt/" title="More movies from Mark Rafael Truitt">Mark Rafael Truitt</a>, <a href="https://www.letsfindmovie.com/actor/john-walcutt/" title="More movies from John Walcutt">John Walcutt</a>, <a href="https://www.letsfindmovie.com/actor/terry-forrestal/" title="More movies from Terry Forrestal">Terry Forrestal</a>, <a href="https://www.letsfindmovie.com/actor/derek-lea/" title="More movies from Derek Lea">Derek Lea</a>, <a href="https://www.letsfindmovie.com/actor/richard-ashton/" title="More movies from Richard Ashton">Richard Ashton</a>, <a href="https://www.letsfindmovie.com/actor/sean-nepita/" title="More movies from Sean Nepita">Sean Nepita</a>, <a href="https://www.letsfindmovie.com/actor/brendan-connolly/" title="More movies from Brendan Connolly">Brendan Connolly</a>, <a href="https://www.letsfindmovie.com/actor/david-cronnelly/" title="More movies from David Cronnelly">David Cronnelly</a>, <a href="https://www.letsfindmovie.com/actor/garth-wilton/" title="More movies from Garth Wilton">Garth Wilton</a>, <a href="https://www.letsfindmovie.com/actor/richard-fox/" title="More movies from Richard Fox">Richard Fox</a>, <a href="https://www.letsfindmovie.com/actor/nick-meaney/" title="More movies from Nick Meaney">Nick Meaney</a>, <a href="https://www.letsfindmovie.com/actor/kevin-owers/" title="More movies from Kevin Owers">Kevin Owers</a>, <a href="https://www.letsfindmovie.com/actor/mark-capri/" title="More movies from Mark Capri">Mark Capri</a>, <a href="https://www.letsfindmovie.com/actor/marc-cass/" title="More movies from Marc Cass">Marc Cass</a>, <a href="https://www.letsfindmovie.com/actor/paul-herbert/" title="More movies from Paul Herbert">Paul Herbert</a>, <a href="https://www.letsfindmovie.com/actor/emmett-james/" title="More movies from Emmett James">Emmett James</a>, <a href="https://www.letsfindmovie.com/actor/chris-byrne/" title="More movies from Chris Byrne">Chris Byrne</a>, <a href="https://www.letsfindmovie.com/actor/oliver-page/" title="More movies from Oliver Page">Oliver Page</a>, <a href="https://www.letsfindmovie.com/actor/james-garrett/" title="More movies from James Garrett">James Garrett</a>, <a href="https://www.letsfindmovie.com/actor/erik-holland/" title="More movies from Erik Holland">Erik Holland</a>, <a href="https://www.letsfindmovie.com/actor/jari-kinnunen/" title="More movies from Jari Kinnunen">Jari Kinnunen</a>, <a href="https://www.letsfindmovie.com/actor/anders-falk/" title="More movies from Anders Falk">Anders Falk</a>, <a href="https://www.letsfindmovie.com/actor/barry-dennen/" title="More movies from Barry Dennen">Barry Dennen</a>, <a href="https://www.letsfindmovie.com/actor/vern-urich/" title="More movies from Vern Urich">Vern Urich</a>, <a href="https://www.letsfindmovie.com/actor/rebecca-klingler/" title="More movies from Rebecca Klingler">Rebecca Klingler</a>, <a href="https://www.letsfindmovie.com/actor/tricia-oneil/" title="More movies from Tricia O'Neil">Tricia O'Neil</a>, <a href="https://www.letsfindmovie.com/actor/kathleen-s-dunn/" title="More movies from Kathleen S. Dunn">Kathleen S. Dunn</a>, <a href="https://www.letsfindmovie.com/actor/romeo-francis/" title="More movies from Romeo Francis">Romeo Francis</a>, <a href="https://www.letsfindmovie.com/actor/mandana-marino/" title="More movies from Mandana Marino">Mandana Marino</a>, <a href="https://www.letsfindmovie.com/actor/van-ling/" title="More movies from Van Ling">Van Ling</a>, <a href="https://www.letsfindmovie.com/actor/bjorn-olsen/" title="More movies from Bjørn Olsen">Bjørn Olsen</a>, <a href="https://www.letsfindmovie.com/actor/dan-pettersson/" title="More movies from Dan Pettersson">Dan Pettersson</a>, <a href="https://www.letsfindmovie.com/actor/shay-duffin/" title="More movies from Shay Duffin">Shay Duffin</a>, <a href="https://www.letsfindmovie.com/actor/greg-ellis/" title="More movies from Greg Ellis">Greg Ellis</a>, <a href="https://www.letsfindmovie.com/actor/diana-morgan/" title="More movies from Diana Morgan">Diana Morgan</a>, <a href="https://www.letsfindmovie.com/actor/kris-andersson/" title="More movies from Kris Andersson">Kris Andersson</a>, <a href="https://www.letsfindmovie.com/actor/bobbie-bates/" title="More movies from Bobbie Bates">Bobbie Bates</a>, <a href="https://www.letsfindmovie.com/actor/aaron-james-cash/" title="More movies from Aaron James Cash">Aaron James Cash</a>, <a href="https://www.letsfindmovie.com/actor/anne-fletcher/" title="More movies from Anne Fletcher">Anne Fletcher</a>, <a href="https://www.letsfindmovie.com/actor/edmond-alan-forsyth/" title="More movies from Edmond Alan Forsyth">Edmond Alan Forsyth</a>, <a href="https://www.letsfindmovie.com/actor/andie-hicks/" title="More movies from Andie Hicks">Andie Hicks</a>, <a href="https://www.letsfindmovie.com/actor/scott-hislop/" title="More movies from Scott Hislop">Scott Hislop</a>, <a href="https://www.letsfindmovie.com/actor/stan-mazin/" title="More movies from Stan Mazin">Stan Mazin</a>, <a href="https://www.letsfindmovie.com/actor/lisa-ratzin/" title="More movies from Lisa Ratzin">Lisa Ratzin</a>, <a href="https://www.letsfindmovie.com/actor/julene-renee/" title="More movies from Julene Renee">Julene Renee</a>, <a href="https://www.letsfindmovie.com/actor/brian-walsh/" title="More movies from Brian Walsh">Brian Walsh</a>, <a href="https://www.letsfindmovie.com/actor/alexandra-boyd/" title="More movies from Alexandra Boyd">Alexandra Boyd</a>, <a href="https://www.letsfindmovie.com/actor/mike-butters/" title="More movies from Mike Butters">Mike Butters</a>, <a href="https://www.letsfindmovie.com/actor/james-cameron/" title="More movies from James Cameron">James Cameron</a>, <a href="https://www.letsfindmovie.com/actor/bruno-campolo/" title="More movies from Bruno Campolo">Bruno Campolo</a>, <a href="https://www.letsfindmovie.com/actor/kevin-de-la-noy/" title="More movies from Kevin De La Noy">Kevin De La Noy</a>, <a href="https://www.letsfindmovie.com/actor/tony-kenny/" title="More movies from Tony Kenny">Tony Kenny</a>, <a href="https://www.letsfindmovie.com/actor/sean-lawlor/" title="More movies from Sean Lawlor">Sean Lawlor</a>, <a href="https://www.letsfindmovie.com/actor/don-lynch/" title="More movies from Don Lynch">Don Lynch</a>, <a href="https://www.letsfindmovie.com/actor/johnny-martin/" title="More movies from Johnny Martin">Johnny Martin</a>, <a href="https://www.letsfindmovie.com/actor/ryan-mcclurkin/" title="More movies from Ryan McClurkin">Ryan McClurkin</a>, <a href="https://www.letsfindmovie.com/actor/meghan-mcleod/" title="More movies from Meghan McLeod">Meghan McLeod</a>, <a href="https://www.letsfindmovie.com/actor/mike-oneal/" title="More movies from Mike O'Neal">Mike O'Neal</a>, <a href="https://www.letsfindmovie.com/actor/phil-parlapiano/" title="More movies from Phil Parlapiano">Phil Parlapiano</a>, <a href="https://www.letsfindmovie.com/actor/steven-quale/" title="More movies from Steven Quale">Steven Quale</a>, <a href="https://www.letsfindmovie.com/actor/olivia-rosewood/" title="More movies from Olivia Rosewood">Olivia Rosewood</a>, <a href="https://www.letsfindmovie.com/actor/john-slade/" title="More movies from John Slade">John Slade</a>, <a href="https://www.letsfindmovie.com/actor/r-gern-trowbridge/" title="More movies from R. Gern Trowbridge">R. Gern Trowbridge</a>									</ul></div></div></div></section>
+<section class="lfm-fourth-section lfm-howto-section">
+<div class="container-fluid"> <div class="row"> <div class="col-md-6 col-sm-2 col-xs-2"> <div class="lfm-box"> <div class="lfm-box-heading"> <h2>How To Watch</h2> <p>Titanic Is Available To Watch On Hotstar With Subscription.<br> Titanic Is Not Available On Rent At The Moment.<br> Titanic Cant Be Purchased At The Moment. </p></div></div></div><div class="col-md-6 col-sm-2 col-xs-2"> <div class="lfm-box"> <div class="lfm-box-heading"> <h2>Synopsis</h2> <p>101-year-old Rose DeWitt Bukater tells the story of her life aboard the Titanic, 84 years later. A young Rose boards the ship with her mother and fiancé. Meanwhile, Jack Dawson and Fabrizio De Rossi win third-class tickets aboard the ship. Rose tells the whole story from Titanic's departure through to its death—on its first and last voyage—on April 15, 1912.</p></div></div></div></div></div></section>
+</main>
+</section></div><footer id="colophon" class="site-footer text-center">
+<span id="remote-content"></span>
+<div class="site-info lfm-text-orange"> <h2 class="heading">Quick Links</h2> <p class="lfm-margin-bottom"></p> <nav class="footer-navigation" aria-label="Footer Menu"> <div class="menu-footer_menu-container"><ul id="menu-footer_menu" class="footer-menu"><li id="menu-item-31" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-31"><a href="https://www.letsfindmovie.com/">Home</a></li> <li id="menu-item-146" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-146"><a href="https://www.letsfindmovie.com/about-us/">About Us</a></li> <li id="menu-item-145" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-145"><a href="https://www.letsfindmovie.com/privacy-policy/">Privacy Policy</a></li> <li id="menu-item-144" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-144"><a href="https://www.letsfindmovie.com/contact-us/">Contact Us</a></li> </ul></div></nav></div><div class="footerdiv"> <div class="row"> <div class="col-sm-12"> <span class="lfm-margin-top">Copyright © 2020. All Rights Reserved</span></div></div></div></footer></div><script>//$(window).scroll(function(){</script>
+<script>var wpmoly={"lang":{"grid":"grid"}};</script>
+<script>var yasrCommonData={"postid":"258","ajaxurl":"https:\/\/www.letsfindmovie.com\/wp-admin\/admin-ajax.php","loggedUser":"","visitorStatsEnabled":"no","tooltipValues":["bad","poor","ok","good","super"],"loaderHtml":"<div id=\"loader-visitor-rating\" style=\"display: inline\">\u00a0  <img src=https:\/\/www.letsfindmovie.com\/wp-content\/plugins\/yet-another-stars-rating\/img\/loader.gif title=\"yasr-loader\" alt=\"yasr-loader\">\n                                 <\/div>"};</script>
+<script>var uiAutocompleteL10n={"noResults":"No results found.","oneResult":"1 result found. Use up and down arrow keys to navigate.","manyResults":"%d results found. Use up and down arrow keys to navigate.","itemSelected":"Item selected."};</script>
+<script src='//www.letsfindmovie.com/wp-content/cache/wpfc-minified/2p8abx11/dn56f.js' type="text/javascript"></script>
+<script>document.documentElement.className=document.documentElement.className.replace('no-js', 'js');</script>
+<script type="application/ld+json">{"@context":"http:\/\/schema.org\/","@type":"Movie","name":"Titanic","image":{"@type":"ImageObject","url":"https:\/\/www.letsfindmovie.com\/wp-content\/uploads\/2020\/01\/kHXEpyfl6zqn8a6YuozZUujufXf.jpg","width":1200,"height":1800},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5","ratingCount":"1"}}</script>
+<script>(function(d,s,id){var js,stags=d.getElementsByTagName(s)[0];if(d.getElementById(id)){return;}js=d.createElement(s);js.id=id;js.src="https://ia.media-imdb.com/images/G/01/imdb/plugins/rating/js/rating.js";stags.parentNode.insertBefore(js,stags);})(document,"script","imdb-rating-api");</script>
+<script src='//www.letsfindmovie.com/wp-content/cache/wpfc-minified/1qjbvmz7/dn56f.js' type="text/javascript"></script>
+<script>$(document).ready(function(){
+$('.movie_detail_modal').click(function(){
+var postID=$(this).data('movie_id');
+$.ajax({
+type:"post",
+dataType:"html",
+url:"https://www.letsfindmovie.com/wp-admin/admin-ajax.php",
+data:{action: "my_action_name", postID:postID},
+success: function(response){
+$('.modal-movie-data').html(response);
+}});
+});
+})
+function lfm_open(){
+document.getElementById("mySidebar").style.display="block";
+}
+function lfm_close(){
+document.getElementById("mySidebar").style.display="none";
+}</script>
+<script id=&quot;rendered-js&quot;>(function(){
+$('.carousel-showmanymoveone .item').each(function(){
+var itemToClone=$(this);
+for (var i=1; i < 6; i++){
+itemToClone=itemToClone.next();
+if(!itemToClone.length){
+itemToClone=$(this).siblings(':first');
+}
+itemToClone.children(':first-child').clone()
+.addClass("cloneditem-" + (i))
+.appendTo($(this));
+}});
+}());</script>
+<script src='//www.letsfindmovie.com/wp-content/cache/wpfc-minified/buw11hz/dn56f.js' type="text/javascript"></script>
+<script>
+( 'fetch' in window ) || document.write( '<script src="https://www.letsfindmovie.com/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0"></scr' + 'ipt>' );( document.contains ) || document.write( '<script src="https://www.letsfindmovie.com/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.26.0-0"></scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="https://www.letsfindmovie.com/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12"></scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="//www.letsfindmovie.com/wp-content/cache/wpfc-minified/a6533cd88b69c68f4695975cadc23c4b/dn56g.js"></scr' + 'ipt>' );
+</script>
+<script src='//www.letsfindmovie.com/wp-content/cache/wpfc-minified/6yriutpi/dn56f.js' type="text/javascript"></script>
+<script>/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);</script>
+<script defer async src="https://www.googletagmanager.com/gtag/js?id=UA-46284841-9"></script>
+<script>window.dataLayer=window.dataLayer||[];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'UA-46284841-9');</script>
+<script >if(window.attachEvent){window.attachEvent('onload',wpfdr_31);}else if(window.addEventListener){window.addEventListener('load', wpfdr_31,false);}
+function wpfdr_31(){
+jQuery(document).ready(function($){
+jQuery('#auto-suggest-front').attr('autocomplete','off');
+var post_type_front='post,movie';
+var post_limit_front='8';
+var ajaxurl='https://www.letsfindmovie.com/wp-admin/admin-ajax.php';
+var xhr=null;
+jQuery("#auto-suggest-front").keyup(function(){
+var search_key_var2=jQuery('#auto-suggest-front').val();
+if(search_key_var2.length > 1){
+jQuery("#auto-suggest-front").addClass('ui-autocomplete-loading');
+var data={
+'action': 'auto_suggest_front',
+'whatever': search_key_var2,
+'post_type_front1': post_type_front,
+'post_limit_front1':post_limit_front
+};
+if(xhr!=null){
+xhr.abort();
+xhr=null;
+}
+jQuery('#asr-container').hide();
+xhr=$.post(ajaxurl, data, function(response){
+jQuery('#asr-container').show();
+if(response=='No records found'){
+jQuery('.more-res').hide();
+jQuery('#asr-container').addClass('no-result');
+}else{
+jQuery('.more-res').show();
+jQuery('#asr-container').removeClass('no-result');
+jQuery('.more-res a').attr('href','https://www.letsfindmovie.com/?s='+search_key_var2);
+}
+jQuery('#result-section').html(response);
+jQuery("#auto-suggest-front").removeClass('ui-autocomplete-loading');
+});
+}else{
+jQuery('#asr-container').hide();
+jQuery('#result-section').html('');
+}});
+});
+}</script>
+</body>
+</html><!-- WP Fastest Cache file was created in 1.9101099967957 seconds, on 13-08-21 23:51:11 --><!-- need to refresh to see cached version -->
