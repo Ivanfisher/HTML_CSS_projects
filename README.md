@@ -5,7 +5,7 @@ The following list of projects are sample websites I created for The Tech Academ
 - [Skydiving site](https://github.com/Ivanfisher/HTML_CSS_projects/tree/main/Skydiving)
 - [Movie Theater site](https://github.com/Ivanfisher/HTML_CSS_projects/tree/main/Bootstrap4_project)
 - [Hiking site](https://github.com/Ivanfisher/HTML_CSS_projects/tree/main/One-Page-Website)
-- [Personal Website](https://ivanlavernfisher/github.io)
+- [Personal Website](https://Ivanfisher.github.io/)
 
 #### Skydiving Site
 This page is an example home page for a Skydiving company. It is created with basic HTML and styled with CSS.
